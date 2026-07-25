@@ -1,0 +1,3002 @@
+[
+ {
+  "id": 1,
+  "domain": "procedures_periprocedural",
+  "front": "Glasgow-Blatchford score",
+  "back": "A pre-endoscopy risk score using only clinical and lab data. A score of zero identifies patients at very low risk who can often be managed as outpatients without urgent endoscopy."
+ },
+ {
+  "id": 2,
+  "domain": "procedures_periprocedural",
+  "front": "Restrictive transfusion threshold",
+  "back": "For most stable patients without cardiac disease, transfuse at a hemoglobin around 7 g/dL. Patients with cardiovascular disease may use a slightly higher threshold near 8 g/dL."
+ },
+ {
+  "id": 3,
+  "domain": "procedures_periprocedural",
+  "front": "Why liberal transfusion harms variceal bleeders",
+  "back": "Overtransfusion raises portal venous pressure, which increases the risk of rebleeding in patients with variceal hemorrhage."
+ },
+ {
+  "id": 4,
+  "domain": "procedures_periprocedural",
+  "front": "Timing of endoscopy in upper GI bleeding",
+  "back": "Endoscopy within 24 hours after resuscitation is standard for most patients. Very early endoscopy within 6 hours has not shown benefit in unselected stable patients."
+ },
+ {
+  "id": 5,
+  "domain": "procedures_periprocedural",
+  "front": "Octreotide in variceal bleeding",
+  "back": "Reduces splanchnic blood flow and portal pressure. Started immediately in suspected variceal hemorrhage and continued for 3 to 5 days."
+ },
+ {
+  "id": 6,
+  "domain": "procedures_periprocedural",
+  "front": "Antibiotics in cirrhotic GI bleeders",
+  "back": "Prophylactic antibiotics such as ceftriaxone reduce mortality and rebleeding in cirrhotic patients with GI bleeding, regardless of whether ascites is present."
+ },
+ {
+  "id": 7,
+  "domain": "procedures_periprocedural",
+  "front": "Obscure GI bleeding workup order",
+  "back": "After negative upper endoscopy and colonoscopy, video capsule endoscopy is the next step. Deep enteroscopy follows if a lesion is found needing biopsy or therapy."
+ },
+ {
+  "id": 8,
+  "domain": "procedures_periprocedural",
+  "front": "Meckel scan",
+  "back": "Technetium-99m pertechnetate scan used to detect ectopic gastric mucosa, most useful in young patients with painless lower GI bleeding after a negative standard workup."
+ },
+ {
+  "id": 9,
+  "domain": "procedures_periprocedural",
+  "front": "Perforation risk: EGD vs colonoscopy",
+  "back": "Diagnostic EGD carries under 1 in 10,000 perforation risk. Diagnostic colonoscopy carries roughly 1 in 1,000 to 3,000, higher with polypectomy."
+ },
+ {
+  "id": 10,
+  "domain": "procedures_periprocedural",
+  "front": "Most common serious colonoscopy complication",
+  "back": "Post-polypectomy bleeding, either immediate (managed with clips or thermal therapy) or delayed up to two weeks later."
+ },
+ {
+  "id": 11,
+  "domain": "procedures_periprocedural",
+  "front": "Post-polypectomy syndrome",
+  "back": "Localized pain, fever, and leukocytosis without free air after electrocautery polypectomy, from a transmural burn. Managed conservatively with bowel rest, fluids, and antibiotics."
+ },
+ {
+  "id": 12,
+  "domain": "procedures_periprocedural",
+  "front": "Post-ERCP pancreatitis risk factors",
+  "back": "Suspected sphincter of Oddi dysfunction and difficult cannulation are the strongest risk factors. Occurs in roughly 3 to 10 percent of ERCPs overall."
+ },
+ {
+  "id": 13,
+  "domain": "procedures_periprocedural",
+  "front": "Preventing post-ERCP pancreatitis",
+  "back": "Rectal indomethacin given immediately before or after the procedure in moderate to high risk patients, plus prophylactic pancreatic duct stenting in high risk difficult cannulation cases."
+ },
+ {
+  "id": 14,
+  "domain": "procedures_periprocedural",
+  "front": "Leading cause of endoscopy related mortality",
+  "back": "Cardiopulmonary events related to sedation, not bleeding or perforation."
+ },
+ {
+  "id": 15,
+  "domain": "procedures_periprocedural",
+  "front": "Radiation safety: distance principle",
+  "back": "Radiation intensity follows the inverse square law with distance, so doubling distance from the source cuts exposure to about one quarter."
+ },
+ {
+  "id": 16,
+  "domain": "procedures_periprocedural",
+  "front": "Fluoroscopy PPE",
+  "back": "Lead apron, thyroid shield, and leaded eyewear protect against scatter radiation during procedures like ERCP."
+ },
+ {
+  "id": 17,
+  "domain": "procedures_periprocedural",
+  "front": "Left lateral decubitus rationale",
+  "back": "Allows secretions and refluxed material to pool away from the vocal cords, protecting the airway during sedated upper endoscopy."
+ },
+ {
+  "id": 18,
+  "domain": "procedures_periprocedural",
+  "front": "Pregnancy positioning",
+  "back": "Left lateral tilt avoids inferior vena cava compression by the gravid uterus, which can otherwise cause maternal hypotension when supine."
+ },
+ {
+  "id": 19,
+  "domain": "procedures_periprocedural",
+  "front": "Sedation in special populations",
+  "back": "Pregnant patients: lowest effective dose, favorable fetal safety profile. Elderly patients: more conservative dosing given reduced clearance and cardiac reserve."
+ },
+ {
+  "id": 20,
+  "domain": "procedures_periprocedural",
+  "front": "Toxic megacolon and endoscopy",
+  "back": "Full colonoscopy with standard insufflation is avoided due to perforation risk in a friable, distended colon. A limited unprepped flexible sigmoidoscopy with minimal air is preferred if assessment is needed."
+ },
+ {
+  "id": 21,
+  "domain": "procedures_periprocedural",
+  "front": "Urgent biliary drainage timing",
+  "back": "Acute cholangitis with sepsis requires biliary decompression, generally within 24 hours, since delay significantly increases mortality."
+ },
+ {
+  "id": 22,
+  "domain": "procedures_periprocedural",
+  "front": "Therapeutic gastroscope selection",
+  "back": "Larger working channel allows better suction of blood and clot and easier passage of hemostatic devices, preferred when active bleeding is suspected."
+ },
+ {
+  "id": 23,
+  "domain": "procedures_periprocedural",
+  "front": "Cap assisted / wide angle colonoscopy",
+  "back": "Improves mucosal visualization behind folds and flexures, useful in patients with a history of missed lesions."
+ },
+ {
+  "id": 24,
+  "domain": "procedures_periprocedural",
+  "front": "Echoendoscope FNA use",
+  "back": "Provides real time ultrasound guided sampling of subepithelial lesions that lie beneath the mucosa, improving yield over standard forceps biopsy."
+ },
+ {
+  "id": 25,
+  "domain": "procedures_periprocedural",
+  "front": "Cold snare vs hot snare",
+  "back": "Cold snare is now preferred for polyps 6 to 9mm, achieving similar complete resection rates with lower bleeding risk than hot snare."
+ },
+ {
+  "id": 26,
+  "domain": "procedures_periprocedural",
+  "front": "Jumbo biopsy forceps indication",
+  "back": "Used when standard forceps repeatedly yield only superficial tissue, such as suspected eosinophilic esophagitis needing deeper sampling."
+ },
+ {
+  "id": 27,
+  "domain": "procedures_periprocedural",
+  "front": "Sessile serrated lesion appearance",
+  "back": "Flat, subtle contour, often covered by a mucus cap, making it easy to miss without careful inspection. More common in the proximal colon."
+ },
+ {
+  "id": 28,
+  "domain": "procedures_periprocedural",
+  "front": "Paris classification depressed component",
+  "back": "A depressed morphology carries a higher risk of submucosal invasion even in small lesions, influencing resection approach."
+ },
+ {
+  "id": 29,
+  "domain": "procedures_periprocedural",
+  "front": "Adenoma detection rate (ADR)",
+  "back": "The most validated colonoscopy quality indicator. Minimum benchmark is at least 25 percent overall, with sex specific targets. Higher ADR correlates with lower interval cancer rates."
+ },
+ {
+  "id": 30,
+  "domain": "procedures_periprocedural",
+  "front": "Cecal intubation rate benchmark",
+  "back": "Minimum accepted benchmark is at least 95 percent for screening colonoscopy."
+ },
+ {
+  "id": 31,
+  "domain": "procedures_periprocedural",
+  "front": "Withdrawal time benchmark",
+  "back": "At least 6 minutes during a normal screening colonoscopy, associated with higher adenoma detection."
+ },
+ {
+  "id": 32,
+  "domain": "procedures_periprocedural",
+  "front": "Surveillance: 1-2 small tubular adenomas",
+  "back": "7 to 10 year interval, similar to average risk screening."
+ },
+ {
+  "id": 33,
+  "domain": "procedures_periprocedural",
+  "front": "Surveillance: adenoma with villous features or HGD",
+  "back": "3 year interval, even without other high risk features."
+ },
+ {
+  "id": 34,
+  "domain": "procedures_periprocedural",
+  "front": "Surveillance: 5+ adenomas or piecemeal resection",
+  "back": "Shortened interval, often 3 years or less, with an earlier repeat exam at a piecemeal resection site to confirm complete removal."
+ },
+ {
+  "id": 35,
+  "domain": "procedures_periprocedural",
+  "front": "Serrated polyposis syndrome",
+  "back": "Defined by cumulative polyp count and size criteria. Moves the patient to a much shorter surveillance interval given elevated cumulative cancer risk."
+ },
+ {
+  "id": 36,
+  "domain": "procedures_periprocedural",
+  "front": "Low vs high bleeding risk procedures",
+  "back": "Low risk: diagnostic endoscopy with or without biopsy, no anticoagulation interruption needed. High risk: large polypectomy, ERCP with sphincterotomy, PEG placement, generally requiring interruption."
+ },
+ {
+  "id": 37,
+  "domain": "procedures_periprocedural",
+  "front": "Warfarin management before high risk procedures",
+  "back": "Hold approximately 5 days before, check INR the day of the procedure to confirm normalization."
+ },
+ {
+  "id": 38,
+  "domain": "procedures_periprocedural",
+  "front": "Bridging anticoagulation",
+  "back": "Reserved for genuinely high thrombotic risk patients, such as a mechanical mitral valve or recent VTE. Routine bridging in lower risk atrial fibrillation increases bleeding without proportional benefit."
+ },
+ {
+  "id": 39,
+  "domain": "procedures_periprocedural",
+  "front": "DOAC periprocedural hold",
+  "back": "Generally held 1 to 2 days for high risk procedures, longer if renal clearance is reduced. Low risk procedures generally require no DOAC interruption at all."
+ },
+ {
+  "id": 40,
+  "domain": "procedures_periprocedural",
+  "front": "Aspirin for secondary prevention around endoscopy",
+  "back": "Generally continued through procedures including polypectomy, since the cardiovascular risk of stopping usually outweighs the modest bleeding risk reduction."
+ },
+ {
+  "id": 41,
+  "domain": "procedures_periprocedural",
+  "front": "Dual antiplatelet therapy after coronary stenting",
+  "back": "Elective endoscopy is generally delayed, or managed in close coordination with cardiology, until the minimum recommended dual therapy duration has passed."
+ },
+ {
+  "id": 42,
+  "domain": "procedures_periprocedural",
+  "front": "Antibiotic prophylaxis indications",
+  "back": "PEG tube placement (reduces peristomal infection) and ERCP with expected incomplete biliary drainage (such as a hilar stricture in PSC)."
+ },
+ {
+  "id": 43,
+  "domain": "procedures_periprocedural",
+  "front": "Antibiotic prophylaxis NOT needed",
+  "back": "Routine colonoscopy or diagnostic EGD, even in patients with prosthetic joints or valves, since endoscopy related bacteremia rarely causes clinically significant infection."
+ },
+ {
+  "id": 44,
+  "domain": "procedures_periprocedural",
+  "front": "GLP-1 receptor agonists and sedation",
+  "back": "Delay gastric emptying, raising aspiration risk. Consider holding the medication or extending the fasting interval before elective sedated procedures."
+ },
+ {
+  "id": 45,
+  "domain": "procedures_periprocedural",
+  "front": "Airway assessment before sedation",
+  "back": "Uses a structured classification system evaluating mouth opening, tongue size, and neck mobility to predict a difficult airway."
+ },
+ {
+  "id": 46,
+  "domain": "procedures_periprocedural",
+  "front": "Most common sedation adverse event",
+  "back": "Hypoxemia from over sedation, more common than hypotension or cardiac arrhythmia."
+ },
+ {
+  "id": 47,
+  "domain": "procedures_periprocedural",
+  "front": "Sedation reversal agents",
+  "back": "Flumazenil reverses benzodiazepines. Naloxone reverses opioids. Propofol has no specific reversal agent and requires supportive airway management."
+ },
+ {
+  "id": 48,
+  "domain": "procedures_periprocedural",
+  "front": "Capnography benefit",
+  "back": "Detects hypoventilation earlier than pulse oximetry detects oxygen desaturation, giving an earlier warning during sedation."
+ },
+ {
+  "id": 49,
+  "domain": "procedures_periprocedural",
+  "front": "Stepwise airway management for oversedation",
+  "back": "Stop the procedure, apply supplemental oxygen, reposition the airway, then escalate to bag mask ventilation and advanced airway management if needed."
+ },
+ {
+  "id": 50,
+  "domain": "procedures_periprocedural",
+  "front": "PEG tube indication",
+  "back": "Long term enteral nutrition anticipated to last more than 4 to 6 weeks, with a functional GI tract."
+ },
+ {
+  "id": 51,
+  "domain": "procedures_periprocedural",
+  "front": "Confirming safe PEG access",
+  "back": "Transillumination with a clear finger indentation (one two three) sign confirms the stomach is apposed to the abdominal wall without an interposed organ."
+ },
+ {
+  "id": 52,
+  "domain": "procedures_periprocedural",
+  "front": "PEG-J or direct percutaneous jejunostomy",
+  "back": "Used when gastric feeding is contraindicated, such as severe gastroparesis or recurrent aspiration despite gastric feeding."
+ },
+ {
+  "id": 53,
+  "domain": "procedures_periprocedural",
+  "front": "Buried bumper syndrome",
+  "back": "Internal bumper erodes into the gastric or abdominal wall. Presents with difficulty flushing, pain, and resistance to tube rotation. Needs endoscopic or surgical correction."
+ },
+ {
+  "id": 54,
+  "domain": "procedures_periprocedural",
+  "front": "Early PEG tube dislodgement",
+  "back": "Within the first 7 to 10 days before the tract matures. A true emergency, since blind replacement risks a false tract and peritoneal leak. Needs endoscopic or fluoroscopic guidance."
+ },
+ {
+  "id": 55,
+  "domain": "procedures_periprocedural",
+  "front": "Informed consent components",
+  "back": "Indication, procedure details, reasonable alternatives, and material risks specific to the patient, including sedation risks. A signed form alone is not sufficient."
+ },
+ {
+  "id": 56,
+  "domain": "procedures_periprocedural",
+  "front": "Goals of care before PEG in advanced dementia",
+  "back": "Should reflect the patient's previously expressed wishes or surrogate judgment. Evidence does not show a mortality or aspiration benefit over careful hand feeding."
+ },
+ {
+  "id": 57,
+  "domain": "procedures_periprocedural",
+  "front": "Decision-specific capacity",
+  "back": "Capacity is assessed per decision, not globally. A patient may retain capacity for a simple decision while lacking it for a complex one."
+ },
+ {
+  "id": 58,
+  "domain": "procedures_periprocedural",
+  "front": "Implied consent in emergencies",
+  "back": "When a patient lacks capacity, has no available surrogate, and delay would risk life or limb, emergency procedures can proceed under implied consent."
+ },
+ {
+  "id": 59,
+  "domain": "procedures_periprocedural",
+  "front": "Button battery ingestion",
+  "back": "Esophageal button batteries need emergent removal, generally within about 2 hours, since they generate an electrical current that can burn through tissue quickly."
+ },
+ {
+  "id": 60,
+  "domain": "procedures_periprocedural",
+  "front": "Sharp esophageal foreign bodies",
+  "back": "Require urgent removal given elevated perforation risk compared with blunt objects."
+ },
+ {
+  "id": 61,
+  "domain": "procedures_periprocedural",
+  "front": "Esophageal perforation diagnosis",
+  "back": "Chest pain, subcutaneous emphysema, and fever after instrumentation. Confirmed with contrast esophagram or CT showing extraluminal contrast or air."
+ },
+ {
+  "id": 62,
+  "domain": "procedures_periprocedural",
+  "front": "Esophageal perforation management",
+  "back": "Small, early, contained perforations may be managed endoscopically with clips or stents. Larger, later presentations with mediastinal contamination often need surgery."
+ },
+ {
+  "id": 63,
+  "domain": "procedures_periprocedural",
+  "front": "Charcot's triad and Reynolds' pentad",
+  "back": "Charcot's triad: fever, jaundice, RUQ pain. Reynolds' pentad adds hypotension and altered mental status, signaling severe cholangitis."
+ },
+ {
+  "id": 64,
+  "domain": "procedures_periprocedural",
+  "front": "Sigmoid volvulus first line treatment",
+  "back": "Endoscopic detorsion with a flexible sigmoidoscope, leaving a rectal tube afterward, in the absence of peritonitis or ischemia."
+ },
+ {
+  "id": 65,
+  "domain": "procedures_periprocedural",
+  "front": "Contraindications to endoscopic detorsion",
+  "back": "Peritoneal signs or suspected ischemia mandate emergency surgical evaluation instead of endoscopic reduction."
+ },
+ {
+  "id": 66,
+  "domain": "esophageal_disorders",
+  "front": "What is the lower esophageal sphincter made of, and why does that matter clinically?",
+  "back": "It is smooth muscle, unlike the upper esophageal sphincter which is striated muscle. This is why smooth muscle diseases like scleroderma and achalasia mainly affect the lower esophagus, while neuromuscular diseases like myasthenia gravis mainly affect the upper esophagus and pharynx."
+ },
+ {
+  "id": 67,
+  "domain": "esophageal_disorders",
+  "front": "Define Barrett esophagus.",
+  "back": "Barrett esophagus is replacement of the normal squamous lining of the distal esophagus by columnar epithelium with intestinal metaplasia, confirmed on biopsy. It develops from chronic acid reflux and carries a small yearly risk of progressing to dysplasia and adenocarcinoma."
+ },
+ {
+  "id": 68,
+  "domain": "esophageal_disorders",
+  "front": "What is the surveillance interval for non-dysplastic Barrett esophagus?",
+  "back": "Every three to five years. Shorter intervals are used once dysplasia is confirmed, and endoscopic ablation is considered for low grade dysplasia and beyond."
+ },
+ {
+  "id": 69,
+  "domain": "esophageal_disorders",
+  "front": "How is high grade dysplasia or mucosal cancer in Barrett esophagus typically treated now?",
+  "back": "With endoscopic mucosal resection of visible lesions combined with ablation of the remaining Barrett segment, which has largely replaced esophagectomy for disease confined to the mucosa."
+ },
+ {
+  "id": 70,
+  "domain": "esophageal_disorders",
+  "front": "What are the main risk factors for Barrett esophagus and esophageal adenocarcinoma?",
+  "back": "Long duration GERD, male sex, age over fifty, central obesity, smoking, and a family history of Barrett esophagus or esophageal cancer."
+ },
+ {
+  "id": 71,
+  "domain": "esophageal_disorders",
+  "front": "What is the classic endoscopic appearance of eosinophilic esophagitis?",
+  "back": "Concentric rings sometimes called trachealization, longitudinal furrows, and whitish exudates representing eosinophil aggregates, sometimes with a narrow caliber esophagus in severe cases."
+ },
+ {
+  "id": 72,
+  "domain": "esophageal_disorders",
+  "front": "What histologic threshold is used to diagnose eosinophilic esophagitis?",
+  "back": "At least fifteen eosinophils per high power field on biopsy from both the proximal and distal esophagus, after other causes of esophageal eosinophilia have been excluded."
+ },
+ {
+  "id": 73,
+  "domain": "esophageal_disorders",
+  "front": "Who typically develops eosinophilic esophagitis, and what is the classic presenting symptom?",
+  "back": "Younger patients, often men in their twenties or thirties with a personal history of atopy such as asthma or eczema. The classic symptom is solid food dysphagia with recurrent food impaction."
+ },
+ {
+  "id": 74,
+  "domain": "esophageal_disorders",
+  "front": "Name the main treatment options for eosinophilic esophagitis.",
+  "back": "Topical swallowed corticosteroids, proton pump inhibitor therapy, elimination diets removing common triggers like dairy and wheat, biologic therapy for refractory cases, and careful dilation for strictures."
+ },
+ {
+  "id": 75,
+  "domain": "esophageal_disorders",
+  "front": "What is an inlet patch?",
+  "back": "A congenital island of heterotopic gastric mucosa found just below the upper esophageal sphincter, usually discovered incidentally and almost always asymptomatic."
+ },
+ {
+  "id": 76,
+  "domain": "esophageal_disorders",
+  "front": "Give two causes of extrinsic esophageal compression.",
+  "back": "An enlarged left atrium and an aberrant right subclavian artery are two classic causes. Others include aortic aneurysm and mediastinal masses. Dilation does not fix compression from an external structure."
+ },
+ {
+  "id": 77,
+  "domain": "esophageal_disorders",
+  "front": "What is a Schatzki ring and what is it associated with?",
+  "back": "A thin mucosal ring at the squamocolumnar junction, strongly associated with hiatal hernia, causing intermittent solid food dysphagia often called steakhouse syndrome."
+ },
+ {
+  "id": 78,
+  "domain": "esophageal_disorders",
+  "front": "What is Plummer-Vinson syndrome and what long term risk does it carry?",
+  "back": "The triad of iron deficiency anemia, glossitis, and cervical esophageal webs. It carries an increased long term risk of squamous cell carcinoma of the esophagus and hypopharynx."
+ },
+ {
+  "id": 79,
+  "domain": "esophageal_disorders",
+  "front": "How do peptic strictures typically appear and where are they located?",
+  "back": "As a longer segment of smooth, tapered narrowing in the distal esophagus, caused by chronic acid-related inflammation and fibrosis. Any stricture should be biopsied to exclude malignancy."
+ },
+ {
+  "id": 80,
+  "domain": "esophageal_disorders",
+  "front": "How is oropharyngeal dysphagia distinguished from esophageal dysphagia?",
+  "back": "Oropharyngeal dysphagia is difficulty initiating a swallow, with coughing, choking, or nasal regurgitation right at the start of swallowing. Esophageal dysphagia is the sensation of food sticking after the swallow has already occurred."
+ },
+ {
+  "id": 81,
+  "domain": "esophageal_disorders",
+  "front": "What is a Zenker diverticulum and how does it form?",
+  "back": "A pharyngeal pouch that forms above the upper esophageal sphincter from increased pressure against a poorly relaxing cricopharyngeus muscle. It presents with regurgitation of old undigested food, halitosis, and aspiration risk."
+ },
+ {
+  "id": 82,
+  "domain": "esophageal_disorders",
+  "front": "What test allows direct visualization of swallowing with different food textures by a speech pathologist?",
+  "back": "Fiberoptic endoscopic evaluation of swallowing, which along with a modified barium swallow study helps identify the specific failing phase of swallowing and guide safe diet recommendations."
+ },
+ {
+  "id": 83,
+  "domain": "esophageal_disorders",
+  "front": "Where in the esophagus do foreign bodies most commonly lodge?",
+  "back": "At areas of physiologic narrowing: the upper esophageal sphincter, the level where the aortic arch crosses the esophagus, and the lower esophageal sphincter."
+ },
+ {
+  "id": 84,
+  "domain": "esophageal_disorders",
+  "front": "Why do multiple ingested magnets require urgent removal?",
+  "back": "They can attract to each other across the esophageal or bowel wall, causing pressure necrosis, fistula formation, or perforation, unlike a single smooth object."
+ },
+ {
+  "id": 85,
+  "domain": "esophageal_disorders",
+  "front": "What is the appropriate timing for endoscopy in a food impaction where the patient can manage secretions?",
+  "back": "Within twenty-four hours. Complete obstruction with inability to manage secretions is a true emergency requiring urgent same-visit endoscopic removal."
+ },
+ {
+  "id": 86,
+  "domain": "esophageal_disorders",
+  "front": "Why should every patient with food impaction get biopsies after removal?",
+  "back": "Because food impaction is often the first clue to an underlying condition like eosinophilic esophagitis, and biopsies are needed to look for that diagnosis."
+ },
+ {
+  "id": 87,
+  "domain": "esophageal_disorders",
+  "front": "What is a Mallory-Weiss tear and how does it present?",
+  "back": "A longitudinal mucosal laceration near the gastroesophageal junction from a sudden rise in intra-abdominal pressure, classically after forceful retching. It presents with hematemesis, often preceded by non-bloody vomiting."
+ },
+ {
+  "id": 88,
+  "domain": "esophageal_disorders",
+  "front": "What medications commonly cause pill-induced esophagitis?",
+  "back": "Doxycycline, potassium chloride, bisphosphonates, and iron supplements, especially when taken with little water or right before lying down."
+ },
+ {
+  "id": 89,
+  "domain": "esophageal_disorders",
+  "front": "What is radiation esophagitis and what can it progress to?",
+  "back": "Esophageal injury during or after chest radiotherapy, which can progress to fibrotic stricture over months in the previously treated field."
+ },
+ {
+  "id": 90,
+  "domain": "esophageal_disorders",
+  "front": "What is the most common cause of esophageal perforation?",
+  "back": "Iatrogenic injury during endoscopic procedures, followed by Boerhaave syndrome, a full thickness rupture from a sudden pressure increase against a closed glottis, usually from forceful vomiting."
+ },
+ {
+  "id": 91,
+  "domain": "esophageal_disorders",
+  "front": "What are the classic signs of esophageal perforation?",
+  "back": "Severe chest pain, subcutaneous emphysema, and systemic signs of sepsis as gastric contents leak into the mediastinum."
+ },
+ {
+  "id": 92,
+  "domain": "esophageal_disorders",
+  "front": "How does scleroderma affect the esophagus?",
+  "back": "It replaces smooth muscle in the lower two thirds with fibrous tissue, producing a weak lower esophageal sphincter and poor peristalsis, which causes severe reflux and early Barrett esophagus."
+ },
+ {
+  "id": 93,
+  "domain": "esophageal_disorders",
+  "front": "How does Chagas disease affect the esophagus, and how does it present?",
+  "back": "Trypanosoma cruzi destroys the myenteric plexus, producing a nonrelaxing lower esophageal sphincter and absent peristalsis identical to primary achalasia, seen in patients from endemic Latin American regions."
+ },
+ {
+  "id": 94,
+  "domain": "esophageal_disorders",
+  "front": "How does Candida esophagitis appear on endoscopy and who gets it?",
+  "back": "White plaques that can be scraped off the mucosa, seen in immunocompromised patients such as those with HIV, uncontrolled diabetes, or chronic steroid use, presenting with odynophagia."
+ },
+ {
+  "id": 95,
+  "domain": "esophageal_disorders",
+  "front": "How do herpes simplex virus and cytomegalovirus esophagitis differ from Candida on endoscopy?",
+  "back": "They cause discrete punched-out or linear ulcers rather than the white plaques seen with Candida, an important distinguishing feature in immunocompromised patients."
+ },
+ {
+  "id": 96,
+  "domain": "esophageal_disorders",
+  "front": "What is the mechanism behind most GERD symptoms?",
+  "back": "Transient lower esophageal sphincter relaxation that allows stomach contents to escape upward even without increased abdominal pressure, often worsened by a hiatal hernia."
+ },
+ {
+  "id": 97,
+  "domain": "esophageal_disorders",
+  "front": "What are alarm features in a GERD patient that should prompt endoscopy rather than empiric treatment?",
+  "back": "Dysphagia, odynophagia, weight loss, anemia, and long duration symptoms in an older patient."
+ },
+ {
+  "id": 98,
+  "domain": "esophageal_disorders",
+  "front": "What is the gold standard test to correlate symptoms with acid or non-acid reflux?",
+  "back": "Ambulatory pH monitoring, often combined with impedance testing, used when the diagnosis is unclear or symptoms persist despite treatment."
+ },
+ {
+  "id": 99,
+  "domain": "esophageal_disorders",
+  "front": "Why is manometry needed before antireflux surgery?",
+  "back": "To rule out an unrecognized motility disorder such as achalasia, which could be significantly worsened by adding a mechanical wrap around a poorly contracting esophagus."
+ },
+ {
+  "id": 100,
+  "domain": "esophageal_disorders",
+  "front": "What extraesophageal symptoms can GERD cause?",
+  "back": "Chronic cough, hoarseness, chest pain mimicking cardiac disease, dental erosion, and worsening of underlying asthma from chronic microaspiration."
+ },
+ {
+  "id": 101,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What are the two hallmark features of cannabinoid hyperemesis syndrome?",
+  "back": "Recurrent cyclic vomiting in a long term heavy cannabis user, often with relief from hot showers or baths. Treatment is complete cannabis cessation, which resolves symptoms over days to weeks."
+ },
+ {
+  "id": 102,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What defines cyclic vomiting syndrome?",
+  "back": "Discrete, stereotyped episodes of severe vomiting separated by symptom free intervals, often starting in childhood. Between episodes the patient appears entirely well, distinguishing it from a progressive structural disease."
+ },
+ {
+  "id": 103,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What triad suggests gastroparesis?",
+  "back": "Early satiety, postprandial fullness, and vomiting of food eaten hours earlier that still looks undigested. Common causes include diabetes, prior gastric surgery, and viral illness, though many cases are idiopathic."
+ },
+ {
+  "id": 104,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What is annular pancreas?",
+  "back": "A congenital anomaly where pancreatic tissue forms a ring around the second part of the duodenum. It can cause partial or complete duodenal obstruction in infancy or, less often, in adulthood."
+ },
+ {
+  "id": 105,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What abnormal finding on imaging suggests intestinal malrotation?",
+  "back": "The duodenojejunal junction is abnormally positioned instead of crossing the midline near the pylorus. This finding can be seen on an upper GI contrast study in both infants and adults."
+ },
+ {
+  "id": 106,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What are the three main stimuli of parietal cell acid secretion?",
+  "back": "Gastrin from antral G cells, histamine from enterochromaffin-like cells, and acetylcholine from vagal nerve endings. All three pathways converge on the parietal cell proton pump, the final common step."
+ },
+ {
+  "id": 107,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What is the role of somatostatin in gastric physiology?",
+  "back": "Somatostatin is released from antral D cells in response to acid and suppresses gastrin, histamine, and acid secretion. Loss of D cell function removes this brake and can cause hypergastrinemia."
+ },
+ {
+  "id": 108,
+  "domain": "gastric_duodenal_disorders",
+  "front": "Why does chronic PPI use raise serum gastrin?",
+  "back": "Suppressing acid removes the normal negative feedback that acid provides on G cell gastrin release. This is a benign, expected effect and should not be mistaken for a gastrinoma."
+ },
+ {
+  "id": 109,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What is secretin's role in duodenal physiology?",
+  "back": "Secretin is released from duodenal S cells in response to acid and stimulates pancreatic bicarbonate secretion. It also inhibits gastrin release, helping coordinate acid neutralization in the duodenum."
+ },
+ {
+  "id": 110,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What is the migrating motor complex and why does it matter?",
+  "back": "A pattern of contractions sweeping through the stomach and small bowel between meals that clears residual debris. Failure of this pattern contributes to bezoar formation."
+ },
+ {
+  "id": 111,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What are the classic symptoms and exam finding of gastric outlet obstruction?",
+  "back": "Early satiety, postprandial fullness, and vomiting of undigested food eaten many hours earlier. A succussion splash heard hours after eating is a classic and specific exam finding."
+ },
+ {
+  "id": 112,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What electrolyte pattern results from chronic vomiting in gastric outlet obstruction?",
+  "back": "A hypokalemic, hypochloremic metabolic alkalosis, driven by loss of gastric acid and volume depletion causing renal potassium wasting. Fluid and electrolyte correction is a management priority."
+ },
+ {
+  "id": 113,
+  "domain": "gastric_duodenal_disorders",
+  "front": "In an older adult with new gastric outlet obstruction and no ulcer history, what should be assumed?",
+  "back": "Malignancy should be presumed until proven otherwise, most often gastric adenocarcinoma or pancreatic head cancer. Endoscopy with biopsy of any mass or stricture is required even if it looks benign."
+ },
+ {
+  "id": 114,
+  "domain": "gastric_duodenal_disorders",
+  "front": "How does autoimmune gastritis differ from H pylori gastritis in distribution?",
+  "back": "Autoimmune gastritis targets the body and fundus and spares the antrum, while H pylori gastritis typically begins in the antrum. Autoimmune gastritis leads to achlorhydria, B12 deficiency, and increased cancer risk."
+ },
+ {
+  "id": 115,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What is chemical or reactive gastropathy and what causes it?",
+  "back": "A pattern of foveolar hyperplasia with minimal inflammation caused by bile reflux, NSAIDs, or alcohol. It is distinguished from H pylori gastritis by the lack of a lymphocytic and neutrophilic infiltrate."
+ },
+ {
+  "id": 116,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What is Menetrier disease?",
+  "back": "A rare protein losing gastropathy with giant hypertrophied gastric folds, foveolar hyperplasia, and excess mucus causing hypoalbuminemia. It is associated with overexpression of transforming growth factor alpha."
+ },
+ {
+  "id": 117,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What is gastric antral vascular ectasia (GAVE) and what is it associated with?",
+  "back": "A vascular lesion showing linear red stripes radiating from the pylorus, causing chronic or overt GI bleeding. It is strongly associated with systemic sclerosis and is sometimes called watermelon stomach."
+ },
+ {
+  "id": 118,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What is the cancer risk of sporadic fundic gland polyps versus those from FAP?",
+  "back": "Sporadic fundic gland polyps, usually linked to chronic PPI use, carry essentially no cancer risk. Those arising in familial adenomatous polyposis can harbor dysplasia and need closer surveillance."
+ },
+ {
+  "id": 119,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What gastric polyp type is linked to active H pylori infection and can regress with treatment?",
+  "back": "Hyperplastic polyps arise from chronic inflammation, often with active H pylori infection. They can regress after successful eradication therapy, though larger ones over one centimeter carry a small dysplasia risk."
+ },
+ {
+  "id": 120,
+  "domain": "gastric_duodenal_disorders",
+  "front": "Which gastric polyp type carries the highest malignant potential?",
+  "back": "Adenomatous polyps, though the least common type, carry the highest malignant potential. They should always be removed with attention to synchronous lesions and appropriate surveillance."
+ },
+ {
+  "id": 121,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What two mechanisms explain how NSAIDs cause ulcers?",
+  "back": "Systemic inhibition of cyclooxygenase-1 reduces protective prostaglandin synthesis, and there is also direct topical mucosal injury. Enteric coating reduces the topical component but not the systemic risk."
+ },
+ {
+  "id": 122,
+  "domain": "gastric_duodenal_disorders",
+  "front": "How does H pylori survive in the acidic stomach environment?",
+  "back": "It produces urease, which breaks down urea into ammonia, neutralizing acid locally around the organism. This same urease activity is exploited by the urea breath test for diagnosis."
+ },
+ {
+  "id": 123,
+  "domain": "gastric_duodenal_disorders",
+  "front": "Why should PPIs and antibiotics be held before H pylori testing?",
+  "back": "They can cause false negative results on urea breath tests, stool antigen tests, and biopsy based tests. PPIs should be held one to two weeks and antibiotics or bismuth four weeks before testing."
+ },
+ {
+  "id": 124,
+  "domain": "gastric_duodenal_disorders",
+  "front": "Why is serology not useful to confirm H pylori eradication?",
+  "back": "Serology detects antibodies that remain positive long after successful treatment, so a positive result does not mean active infection. Urea breath test or stool antigen testing should be used instead to confirm cure."
+ },
+ {
+  "id": 125,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What endoscopic ulcer finding carries the highest rebleeding risk?",
+  "back": "A visible vessel or active spurting in the ulcer base carries the highest rebleeding risk and warrants endoscopic therapy. A clean base ulcer carries a very low rebleeding risk and often needs no intervention."
+ },
+ {
+  "id": 126,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What is the classic finding and management of a perforated peptic ulcer?",
+  "back": "Sudden severe abdominal pain with peritoneal signs and free air under the diaphragm on an upright chest film. This is a surgical emergency in most cases, though select stable patients may be managed nonoperatively."
+ },
+ {
+  "id": 127,
+  "domain": "gastric_duodenal_disorders",
+  "front": "When should Zollinger-Ellison syndrome be suspected?",
+  "back": "In patients with multiple or refractory ulcers, ulcers in unusual distal locations, or ulcers without H pylori or NSAID exposure. Roughly a quarter of cases occur with multiple endocrine neoplasia type 1."
+ },
+ {
+  "id": 128,
+  "domain": "gastric_duodenal_disorders",
+  "front": "How is Zollinger-Ellison syndrome confirmed when gastrin is equivocal?",
+  "back": "A secretin stimulation test is used, and a paradoxical rise in gastrin after secretin supports the diagnosis. Fasting gastrin should ideally be checked off proton pump inhibitor therapy first."
+ },
+ {
+  "id": 129,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What is early dumping syndrome and its mechanism?",
+  "back": "Symptoms within thirty minutes of eating from rapid delivery of hyperosmolar food into the small bowel. This draws fluid into the lumen, causing cramping, diarrhea, and vasomotor flushing and tachycardia."
+ },
+ {
+  "id": 130,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What is late dumping syndrome and its mechanism?",
+  "back": "Symptoms one to three hours after eating from an exaggerated insulin response to a rapid carbohydrate load. This causes reactive hypoglycemia with sweating, tremor, and confusion, sometimes treated with acarbose."
+ },
+ {
+  "id": 131,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What is afferent loop syndrome?",
+  "back": "A complication of Billroth II or Roux-en-Y anatomy where the blind afferent limb carrying bile and pancreatic secretions becomes obstructed. Chronic partial obstruction causes pain relieved by sudden bilious, non-food vomiting."
+ },
+ {
+  "id": 132,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What is bile reflux gastritis and how does it present?",
+  "back": "Reflux of duodenal contents into the gastric remnant after procedures removing or bypassing the pylorus. It causes chronic burning pain often unrelieved by eating, with bile pooling seen on endoscopy."
+ },
+ {
+  "id": 133,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What are marginal ulcers and their major risk factors?",
+  "back": "Ulcers at the gastrojejunal anastomosis after gastric bypass, with risk factors including smoking, NSAID use, H pylori, and larger pouch size. Smoking cessation and PPI therapy are central to prevention and treatment."
+ },
+ {
+  "id": 134,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What is internal hernia after Roux-en-Y gastric bypass?",
+  "back": "Herniation through a mesenteric defect created during reconstruction, presenting with intermittent severe pain. Imaging can be falsely reassuring, so a high index of suspicion is required."
+ },
+ {
+  "id": 135,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What nutritional deficiencies are common after gastric bypass surgery?",
+  "back": "Iron, vitamin B12, folate, calcium, and fat soluble vitamin deficiencies are common from reduced acid processing and bypassed absorptive surface. Lifelong monitoring and supplementation are required."
+ },
+ {
+  "id": 136,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What mechanism explains diabetic gastroparesis?",
+  "back": "Long standing hyperglycemia damages vagal nerve fibers and interstitial cells of Cajal, the gastric pacemaker cells. Poor glycemic control both results from and worsens gastroparesis in a vicious cycle."
+ },
+ {
+  "id": 137,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What must be confirmed before diagnosing gastroparesis with a gastric emptying study?",
+  "back": "Reasonable glycemic control at the time of testing and exclusion of a mechanical obstruction on endoscopy first. Uncontrolled hyperglycemia itself can slow gastric emptying and confound the result."
+ },
+ {
+  "id": 138,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What upper GI finding can occur in Crohn disease and why does it matter?",
+  "back": "Gastroduodenal involvement, usually as an extension of duodenal disease, can cause stricturing and gastric outlet obstruction. This should be considered in known Crohn patients with new obstructive symptoms."
+ },
+ {
+  "id": 139,
+  "domain": "gastric_duodenal_disorders",
+  "front": "What is a gastric bezoar and what predisposes to it?",
+  "back": "A mass of indigestible material like fiber or hair that accumulates in the stomach and can cause obstruction. Impaired gastric motility, such as from gastroparesis, predisposes by weakening the migrating motor complex."
+ },
+ {
+  "id": 140,
+  "domain": "gastric_duodenal_disorders",
+  "front": "How does adult acquired pyloric narrowing usually differ from congenital pyloric stenosis?",
+  "back": "Adult acquired narrowing is almost always from chronic peptic ulcer scarring rather than a true congenital muscular defect. Congenital pyloric stenosis instead involves hypertrophy of the pyloric muscle presenting in infancy."
+ },
+ {
+  "id": 141,
+  "domain": "ibd_immune_disorders",
+  "front": "What is the depth of inflammation in Crohn disease versus ulcerative colitis?",
+  "back": "Crohn disease is transmural, involving the full thickness of the bowel wall. Ulcerative colitis is limited to the mucosa and, at most, the submucosa. This difference explains why fistulas and strictures are common in Crohn disease but rare in ulcerative colitis."
+ },
+ {
+  "id": 142,
+  "domain": "ibd_immune_disorders",
+  "front": "What are skip lesions and which disease shows them?",
+  "back": "Skip lesions are patches of diseased bowel separated by areas of normal mucosa. They are a hallmark of Crohn disease. Ulcerative colitis instead spreads continuously without normal areas in between."
+ },
+ {
+  "id": 143,
+  "domain": "ibd_immune_disorders",
+  "front": "What is the most common location for Crohn disease?",
+  "back": "The terminal ileum is the most common site of Crohn disease involvement. Ileocolonic disease, affecting both the terminal ileum and colon, is the most frequent overall pattern seen clinically."
+ },
+ {
+  "id": 144,
+  "domain": "ibd_immune_disorders",
+  "front": "Why does terminal ileal Crohn disease or resection cause B12 deficiency?",
+  "back": "The terminal ileum is the primary site of vitamin B12 absorption. Disease or resection of this segment impairs B12 uptake, leading to macrocytic anemia and neurologic symptoms over time."
+ },
+ {
+  "id": 145,
+  "domain": "ibd_immune_disorders",
+  "front": "What causes bile acid diarrhea after terminal ileal resection?",
+  "back": "The terminal ileum reabsorbs bile acids. When it is resected or severely diseased, excess bile acids reach the colon and stimulate secretory watery diarrhea, distinct from active inflammation."
+ },
+ {
+  "id": 146,
+  "domain": "ibd_immune_disorders",
+  "front": "What is an enterovesical fistula and how does it present?",
+  "back": "An enterovesical fistula connects the bowel to the bladder. It classically presents with recurrent mixed enteric urinary tract infections and pneumaturia, which is air passed in the urine."
+ },
+ {
+  "id": 147,
+  "domain": "ibd_immune_disorders",
+  "front": "What is the difference between an inflammatory and a fibrotic Crohn stricture?",
+  "back": "An inflammatory stricture is caused by active swelling and often improves with medical anti-inflammatory therapy. A fibrotic stricture is caused by chronic scarring and generally requires endoscopic dilation or surgery instead."
+ },
+ {
+  "id": 148,
+  "domain": "ibd_immune_disorders",
+  "front": "What imaging study is preferred to map a perianal Crohn fistula?",
+  "back": "Pelvic MRI is the preferred imaging study for mapping perianal fistula tracts and any associated abscesses before surgical planning, since it provides detailed soft tissue resolution."
+ },
+ {
+  "id": 149,
+  "domain": "ibd_immune_disorders",
+  "front": "Why does perianal fistulizing Crohn disease change management?",
+  "back": "Perianal fistulizing disease marks a more aggressive overall disease course. It often prompts earlier initiation of anti-TNF biologic therapy combined with surgical drainage of any abscess."
+ },
+ {
+  "id": 150,
+  "domain": "ibd_immune_disorders",
+  "front": "What must always be done before starting biologic therapy for a Crohn abscess?",
+  "back": "Any abscess must be drained, either surgically or percutaneously, before or alongside starting anti-TNF therapy. Antibiotics and biologics alone will not resolve a walled-off collection."
+ },
+ {
+  "id": 151,
+  "domain": "ibd_immune_disorders",
+  "front": "What long term cancer risk is increased in chronically diseased Crohn small bowel segments?",
+  "back": "Chronically inflamed or surgically bypassed small bowel segments in Crohn disease carry an increased risk of small bowel adenocarcinoma, a rare but clinically important complication."
+ },
+ {
+  "id": 152,
+  "domain": "ibd_immune_disorders",
+  "front": "How is ulcerative colitis extent classified?",
+  "back": "Ulcerative colitis extent is classified as proctitis, limited to the rectum, left-sided colitis, extending to the splenic flexure, or extensive colitis and pancolitis, extending beyond the splenic flexure or involving the whole colon."
+ },
+ {
+  "id": 153,
+  "domain": "ibd_immune_disorders",
+  "front": "What defines toxic megacolon?",
+  "back": "Toxic megacolon is colonic dilation, usually greater than 6 centimeters, combined with systemic toxicity such as fever, tachycardia, leukocytosis, and abdominal distension, usually during a severe colitis flare."
+ },
+ {
+  "id": 154,
+  "domain": "ibd_immune_disorders",
+  "front": "What medications can trigger or worsen toxic megacolon?",
+  "back": "Opioids and anticholinergic medications slow colonic motility and are recognized triggers or aggravating factors for toxic megacolon in patients with severe colitis flares."
+ },
+ {
+  "id": 155,
+  "domain": "ibd_immune_disorders",
+  "front": "When is urgent colectomy indicated in toxic megacolon?",
+  "back": "Urgent colectomy is indicated if the patient fails to improve within 48 to 72 hours of intensive medical therapy or shows any sign of perforation, since delay raises mortality."
+ },
+ {
+  "id": 156,
+  "domain": "ibd_immune_disorders",
+  "front": "Why is a colonic stricture concerning in ulcerative colitis?",
+  "back": "Fibrotic strictures are unusual in ulcerative colitis because its inflammation is limited to the mucosa. Any stricture found should raise concern for malignancy and be evaluated before assuming benign disease."
+ },
+ {
+  "id": 157,
+  "domain": "ibd_immune_disorders",
+  "front": "When does colorectal cancer surveillance typically begin for extensive ulcerative colitis?",
+  "back": "Surveillance colonoscopy with extensive biopsies or chromoendoscopy typically begins about eight to ten years after diagnosis of extensive disease, assuming no primary sclerosing cholangitis is present."
+ },
+ {
+  "id": 158,
+  "domain": "ibd_immune_disorders",
+  "front": "How does primary sclerosing cholangitis change surveillance timing?",
+  "back": "Patients with both ulcerative colitis and primary sclerosing cholangitis need annual colonoscopic surveillance starting as soon as both diagnoses are established, much earlier than the usual eight to ten year window."
+ },
+ {
+  "id": 159,
+  "domain": "ibd_immune_disorders",
+  "front": "What are pseudopolyps and are they premalignant?",
+  "back": "Pseudopolyps are regenerative mucosal projections that form after healing of severe ulceration in ulcerative colitis. They are not inherently premalignant, though their presence reflects a history of severe inflammation."
+ },
+ {
+  "id": 160,
+  "domain": "ibd_immune_disorders",
+  "front": "What is tenesmus?",
+  "back": "Tenesmus is a persistent sensation of needing to pass stool even after passing little or nothing. It is common in ulcerative colitis, especially proctitis, because inflammation begins in the rectum."
+ },
+ {
+  "id": 161,
+  "domain": "ibd_immune_disorders",
+  "front": "What is the difference between activity-parallel and activity-independent extraintestinal manifestations?",
+  "back": "Activity-parallel manifestations, like peripheral arthritis and erythema nodosum, flare and improve along with bowel disease activity. Activity-independent manifestations, like primary sclerosing cholangitis and ankylosing spondylitis, run their own separate course."
+ },
+ {
+  "id": 162,
+  "domain": "ibd_immune_disorders",
+  "front": "Which extraintestinal skin finding is more linked to Crohn disease than ulcerative colitis?",
+  "back": "Erythema nodosum, tender red nodules typically on the shins, is more commonly associated with Crohn disease than ulcerative colitis, although it can occur in both conditions."
+ },
+ {
+  "id": 163,
+  "domain": "ibd_immune_disorders",
+  "front": "What does pyoderma gangrenosum look like and how does it behave?",
+  "back": "Pyoderma gangrenosum begins as a pustule that rapidly ulcerates into a painful lesion with a violaceous, undermined border. It is activity-independent and does not reliably improve with colectomy."
+ },
+ {
+  "id": 164,
+  "domain": "ibd_immune_disorders",
+  "front": "What liver disease is strongly associated with ulcerative colitis?",
+  "back": "Primary sclerosing cholangitis is strongly associated with ulcerative colitis and, less commonly, Crohn colitis. It causes progressive bile duct fibrosis with a beaded appearance on MRCP and raises alkaline phosphatase."
+ },
+ {
+  "id": 165,
+  "domain": "ibd_immune_disorders",
+  "front": "What malignancy risk does primary sclerosing cholangitis raise?",
+  "back": "Primary sclerosing cholangitis raises the long term risk of cholangiocarcinoma, in addition to progressing toward cirrhosis, which is part of why combined surveillance with colitis is so important."
+ },
+ {
+  "id": 166,
+  "domain": "ibd_immune_disorders",
+  "front": "What genetic markers are associated with celiac disease?",
+  "back": "Celiac disease is strongly linked to HLA-DQ2 and HLA-DQ8, which present deamidated gluten peptides to T cells and drive the small bowel inflammatory response."
+ },
+ {
+  "id": 167,
+  "domain": "ibd_immune_disorders",
+  "front": "What enzyme triggers the celiac immune response to gluten?",
+  "back": "Tissue transglutaminase deamidates gluten peptides, increasing their binding to HLA-DQ2 or HLA-DQ8 on antigen presenting cells and activating the T cell response that damages the small bowel."
+ },
+ {
+  "id": 168,
+  "domain": "ibd_immune_disorders",
+  "front": "What is the classic histologic triad of celiac disease on duodenal biopsy?",
+  "back": "The classic celiac biopsy findings are villous atrophy, crypt hyperplasia, and increased intraepithelial lymphocytes, reflecting chronic immune-mediated damage to the small bowel lining."
+ },
+ {
+  "id": 169,
+  "domain": "ibd_immune_disorders",
+  "front": "What is the preferred initial serologic test for celiac disease?",
+  "back": "IgA tissue transglutaminase antibody, or tTG-IgA, is the preferred initial screening test, always checked alongside total serum IgA to rule out IgA deficiency causing a false negative."
+ },
+ {
+  "id": 170,
+  "domain": "ibd_immune_disorders",
+  "front": "What should be done if a patient has IgA deficiency and suspected celiac disease?",
+  "back": "If total IgA is low, tTG-IgA becomes unreliable, so IgG-based testing, such as deamidated gliadin peptide IgG, should be used instead for both diagnosis and monitoring."
+ },
+ {
+  "id": 171,
+  "domain": "ibd_immune_disorders",
+  "front": "Why should patients keep eating gluten before celiac testing?",
+  "back": "Starting a gluten-free diet before testing can normalize both antibody levels and villous architecture, producing false-negative serology and biopsy results and making diagnosis much harder to confirm."
+ },
+ {
+  "id": 172,
+  "domain": "ibd_immune_disorders",
+  "front": "What is dermatitis herpetiformis?",
+  "back": "Dermatitis herpetiformis is the classic cutaneous manifestation of celiac disease, presenting as itchy blistering lesions on the elbows, knees, and buttocks, with granular IgA deposits on skin biopsy."
+ },
+ {
+  "id": 173,
+  "domain": "ibd_immune_disorders",
+  "front": "How is dermatitis herpetiformis treated?",
+  "back": "Strict adherence to a gluten-free diet typically resolves dermatitis herpetiformis over time, often without needing additional topical therapy once the diet is followed consistently."
+ },
+ {
+  "id": 174,
+  "domain": "ibd_immune_disorders",
+  "front": "Why are iron and folate deficiency classic in celiac disease?",
+  "back": "Iron and folate are absorbed in the duodenum and proximal jejunum, the segments most damaged by celiac disease, so their deficiency can appear even before diarrhea becomes prominent."
+ },
+ {
+  "id": 175,
+  "domain": "ibd_immune_disorders",
+  "front": "What nonclassic presentations should raise suspicion for celiac disease?",
+  "back": "Unexplained iron deficiency anemia, elevated liver enzymes, infertility, recurrent miscarriage, short stature in children, and dental enamel defects are all recognized nonclassic celiac presentations without prominent diarrhea."
+ },
+ {
+  "id": 176,
+  "domain": "ibd_immune_disorders",
+  "front": "What autoimmune conditions are commonly associated with celiac disease?",
+  "back": "Autoimmune thyroid disease and type 1 diabetes are the autoimmune conditions most commonly associated with celiac disease, reflecting shared genetic and immune susceptibility."
+ },
+ {
+  "id": 177,
+  "domain": "ibd_immune_disorders",
+  "front": "What is refractory celiac disease and why does it matter?",
+  "back": "Refractory celiac disease is new or persistent symptoms despite strict gluten-free diet adherence. It requires repeat biopsy and workup because it can signal enteropathy-associated T-cell lymphoma."
+ },
+ {
+  "id": 178,
+  "domain": "ibd_immune_disorders",
+  "front": "What malignancies are increased in celiac disease?",
+  "back": "Celiac disease carries an increased risk of enteropathy-associated T-cell lymphoma and a modestly increased risk of small bowel adenocarcinoma, both linked to chronic small bowel damage."
+ },
+ {
+  "id": 179,
+  "domain": "ibd_immune_disorders",
+  "front": "Why does untreated celiac disease cause osteoporosis?",
+  "back": "Chronic malabsorption of calcium and vitamin D from long standing untreated celiac disease is the main mechanism leading to reduced bone density and osteoporosis over time."
+ },
+ {
+  "id": 180,
+  "domain": "ibd_immune_disorders",
+  "front": "What is microscopic colitis and how is it diagnosed?",
+  "back": "Microscopic colitis causes chronic watery, non-bloody diarrhea with a grossly normal-appearing colon. It is diagnosed only by biopsy, showing either a thickened collagen band or increased intraepithelial lymphocytes."
+ },
+ {
+  "id": 181,
+  "domain": "ibd_immune_disorders",
+  "front": "What are the two subtypes of microscopic colitis?",
+  "back": "Collagenous colitis, defined by a thickened subepithelial collagen band, and lymphocytic colitis, defined by increased intraepithelial lymphocytes, are the two histologic subtypes of microscopic colitis."
+ },
+ {
+  "id": 182,
+  "domain": "ibd_immune_disorders",
+  "front": "Which medications are associated with microscopic colitis?",
+  "back": "Proton pump inhibitors and nonsteroidal anti-inflammatory drugs are associated with microscopic colitis and should be reviewed and stopped if possible before starting other therapy."
+ },
+ {
+  "id": 183,
+  "domain": "ibd_immune_disorders",
+  "front": "What is eosinophilic esophagitis and how does it present?",
+  "back": "Eosinophilic esophagitis is dense eosinophilic infiltration of the esophagus presenting with dysphagia and food impaction in adults, diagnosed by biopsy showing a high density of eosinophils without infection."
+ },
+ {
+  "id": 184,
+  "domain": "ibd_immune_disorders",
+  "front": "How is eosinophilic esophagitis initially managed?",
+  "back": "Initial management includes dietary elimination of trigger foods and topical steroids that are swallowed rather than inhaled, with dilation reserved for strictures that have already formed."
+ },
+ {
+  "id": 185,
+  "domain": "ibd_immune_disorders",
+  "front": "What is Behcet disease and how can it mimic Crohn disease?",
+  "back": "Behcet disease is a systemic vasculitis that can cause terminal ileal and cecal ulcers mimicking Crohn disease, but with recurrent oral and genital ulcers, uveitis, and a pathergy reaction."
+ },
+ {
+  "id": 186,
+  "domain": "ibd_immune_disorders",
+  "front": "How do Behcet disease ulcers differ from Crohn disease ulcers?",
+  "back": "Behcet disease ulcers tend to be fewer in number but deeper and more likely to perforate compared with the more numerous, typically shallower ulcers of Crohn disease."
+ },
+ {
+  "id": 187,
+  "domain": "ibd_immune_disorders",
+  "front": "What is a pathergy reaction?",
+  "back": "A pathergy reaction is exaggerated skin ulceration at the site of a needle prick, a supportive clinical finding for Behcet disease."
+ },
+ {
+  "id": 188,
+  "domain": "ibd_immune_disorders",
+  "front": "How can common variable immunodeficiency mimic inflammatory bowel disease?",
+  "back": "Common variable immunodeficiency can cause chronic diarrhea and nodular lymphoid hyperplasia of the small bowel, overlapping with inflammatory bowel disease, but with recurrent sinopulmonary infections and low immunoglobulins."
+ },
+ {
+  "id": 189,
+  "domain": "ibd_immune_disorders",
+  "front": "What clinical clues favor Crohn disease over ulcerative colitis on colonoscopy?",
+  "back": "Rectal sparing, skip lesions, and terminal ileal involvement favor Crohn disease. Continuous inflammation starting in the rectum favors ulcerative colitis instead."
+ },
+ {
+  "id": 190,
+  "domain": "ibd_immune_disorders",
+  "front": "What is the key testing rule for suspected immunodeficiency before diagnosing inflammatory bowel disease?",
+  "back": "Recurrent infections with low immunoglobulin levels should prompt an immunodeficiency workup, such as serum immunoglobulin levels, before labeling a gastrointestinal picture as idiopathic inflammatory bowel disease."
+ },
+ {
+  "id": 191,
+  "domain": "motility_disorders",
+  "front": "What is the underlying cell loss that causes achalasia?",
+  "back": "Loss of inhibitory ganglion cells in the myenteric plexus of the esophagus. This causes failure of lower esophageal sphincter relaxation and loss of normal peristalsis in the esophageal body."
+ },
+ {
+  "id": 192,
+  "domain": "motility_disorders",
+  "front": "What is the classic barium esophagram finding in achalasia?",
+  "back": "A bird-beak appearance, with smooth tapered narrowing at the gastroesophageal junction and dilation of the esophageal body above it."
+ },
+ {
+  "id": 193,
+  "domain": "motility_disorders",
+  "front": "What manometric finding defines achalasia on high resolution manometry?",
+  "back": "An elevated integrated relaxation pressure combined with absent peristalsis in the esophageal body."
+ },
+ {
+  "id": 194,
+  "domain": "motility_disorders",
+  "front": "Name the three Chicago Classification subtypes of achalasia.",
+  "back": "Type I with no significant pressurization, type II with panesophageal pressurization, and type III with spastic contractions. Type II generally has the best treatment response."
+ },
+ {
+  "id": 195,
+  "domain": "motility_disorders",
+  "front": "Why must pseudoachalasia be considered before treating achalasia?",
+  "back": "A tumor at the gastroesophageal junction can produce a manometric and radiographic pattern identical to primary achalasia. Careful endoscopic and imaging evaluation is needed to exclude malignancy, especially with rapid symptom onset or significant weight loss."
+ },
+ {
+  "id": 196,
+  "domain": "motility_disorders",
+  "front": "What limits long-term use of botulinum toxin for achalasia?",
+  "back": "Its effect wears off over months, requiring repeated injections, which makes it best reserved for patients who are poor candidates for more durable procedures."
+ },
+ {
+  "id": 197,
+  "domain": "motility_disorders",
+  "front": "Why is peroral endoscopic myotomy often preferred for type III achalasia?",
+  "back": "It allows a longer myotomy that can extend up into the spastic segment of the esophageal body, unlike a standard laparoscopic Heller myotomy."
+ },
+ {
+  "id": 198,
+  "domain": "motility_disorders",
+  "front": "What defines distal esophageal spasm on manometry?",
+  "back": "Normal lower esophageal sphincter relaxation with premature, simultaneous contractions in the distal esophagus on multiple swallows."
+ },
+ {
+  "id": 199,
+  "domain": "motility_disorders",
+  "front": "What defines hypercontractile (jackhammer) esophagus?",
+  "back": "At least one swallow with a markedly elevated distal contractile integral, reflecting excessive contraction strength rather than an abnormal timing pattern."
+ },
+ {
+  "id": 200,
+  "domain": "motility_disorders",
+  "front": "What is ineffective esophageal motility and why does it matter in reflux disease?",
+  "back": "Weak peristalsis with low distal contractile integral on multiple swallows. It impairs esophageal clearance of refluxed acid, which can worsen gastroesophageal reflux symptoms."
+ },
+ {
+  "id": 201,
+  "domain": "motility_disorders",
+  "front": "What is the classic symptom triad of gastroparesis?",
+  "back": "Early satiety, postprandial fullness, and nausea, often with vomiting, bloating, and upper abdominal pain."
+ },
+ {
+  "id": 202,
+  "domain": "motility_disorders",
+  "front": "What is the reference standard test for gastroparesis and its diagnostic threshold?",
+  "back": "Gastric emptying scintigraphy using a low-fat egg-white meal over four hours, with retention above ten percent at four hours considered diagnostic of delayed emptying."
+ },
+ {
+  "id": 203,
+  "domain": "motility_disorders",
+  "front": "Which two medication classes must be held before gastric emptying testing?",
+  "back": "Opioids and glucagon-like peptide-1 receptor agonists, since both can slow gastric emptying and produce a falsely delayed result."
+ },
+ {
+  "id": 204,
+  "domain": "motility_disorders",
+  "front": "Why is the two-hour retention value on gastric emptying scintigraphy not enough on its own?",
+  "back": "Early time point results correlate poorly with symptoms. The four-hour retention value is the validated diagnostic threshold."
+ },
+ {
+  "id": 205,
+  "domain": "motility_disorders",
+  "front": "What is the only prokinetic approved in the United States for gastroparesis, and its main limitation?",
+  "back": "Metoclopramide, limited by a boxed warning for tardive dyskinesia, so treatment courses should be kept as short as possible."
+ },
+ {
+  "id": 206,
+  "domain": "motility_disorders",
+  "front": "What options exist for refractory gastroparesis after medical therapy fails?",
+  "back": "Gastric electrical stimulation, and for severe cases, a venting gastrostomy or jejunal feeding tube."
+ },
+ {
+  "id": 207,
+  "domain": "motility_disorders",
+  "front": "What is the mechanism of early dumping syndrome?",
+  "back": "Hyperosmolar chyme entering the small bowel rapidly draws fluid across the mucosa, causing bloating, cramping, diarrhea, and vasomotor symptoms within thirty minutes of eating."
+ },
+ {
+  "id": 208,
+  "domain": "motility_disorders",
+  "front": "What is the mechanism of late dumping syndrome?",
+  "back": "A rapid rise in blood glucose triggers an exaggerated insulin response, producing reactive hypoglycemia with sweating, tremor, and confusion one to three hours after eating."
+ },
+ {
+  "id": 209,
+  "domain": "motility_disorders",
+  "front": "What is the most effective medical therapy for refractory dumping syndrome?",
+  "back": "Subcutaneous octreotide, which slows gastric emptying and blunts the exaggerated insulin surge."
+ },
+ {
+  "id": 210,
+  "domain": "motility_disorders",
+  "front": "When should prolonged postoperative ileus be investigated further?",
+  "back": "When it persists beyond three to five days, which should prompt evaluation for electrolyte disturbance, opioid effect, retroperitoneal hematoma, or an evolving mechanical obstruction."
+ },
+ {
+  "id": 211,
+  "domain": "motility_disorders",
+  "front": "What is acute colonic pseudo-obstruction also called, and what is its major risk?",
+  "back": "Ogilvie syndrome. The major risk is cecal perforation, which becomes more likely once cecal diameter exceeds twelve centimeters."
+ },
+ {
+  "id": 212,
+  "domain": "motility_disorders",
+  "front": "What is the treatment of choice for Ogilvie syndrome after conservative measures fail?",
+  "back": "Intravenous neostigmine, given with cardiac monitoring because of the risk of bradycardia."
+ },
+ {
+  "id": 213,
+  "domain": "motility_disorders",
+  "front": "What defines chronic intestinal pseudo-obstruction?",
+  "back": "A rare, indolent syndrome from neuropathic or myopathic gut disease, causing recurrent episodes resembling mechanical obstruction with dilated bowel loops but no identifiable transition point."
+ },
+ {
+  "id": 214,
+  "domain": "motility_disorders",
+  "front": "Name three underlying causes of chronic intestinal pseudo-obstruction.",
+  "back": "Scleroderma, amyloidosis, and mitochondrial disorders are recognized primary or secondary causes, among others such as paraneoplastic syndromes."
+ },
+ {
+  "id": 215,
+  "domain": "motility_disorders",
+  "front": "What defines dyssynergic defecation?",
+  "back": "Failure of the puborectalis muscle and external anal sphincter to relax, or paradoxical contraction, during attempted defecation, leading to incomplete evacuation and excessive straining."
+ },
+ {
+  "id": 216,
+  "domain": "motility_disorders",
+  "front": "What balloon expulsion time supports dyssynergic defecation?",
+  "back": "A prolonged balloon expulsion time, typically longer than one to two minutes, when paired with an abnormal straining pattern on manometry."
+ },
+ {
+  "id": 217,
+  "domain": "motility_disorders",
+  "front": "What is the most effective treatment for dyssynergic defecation?",
+  "back": "Biofeedback therapy, which trains coordination of abdominal push effort with pelvic floor relaxation. It outperforms laxatives alone in randomized trials."
+ },
+ {
+  "id": 218,
+  "domain": "motility_disorders",
+  "front": "What test identifies a structural anal sphincter defect from obstetric trauma?",
+  "back": "Endoanal ultrasound."
+ },
+ {
+  "id": 219,
+  "domain": "motility_disorders",
+  "front": "What is the stepwise management approach for fecal incontinence?",
+  "back": "Stool bulking agents and antidiarrheal agents first, then biofeedback, then sacral nerve stimulation for patients who fail conservative measures."
+ },
+ {
+  "id": 220,
+  "domain": "motility_disorders",
+  "front": "What distinguishes achalasia dysphagia from a mechanical stricture?",
+  "back": "Achalasia causes dysphagia to both solids and liquids from the start, while a mechanical stricture or ring typically causes dysphagia to solids only, progressing later to liquids."
+ },
+ {
+  "id": 221,
+  "domain": "gut_brain_disorders",
+  "front": "What defines functional heartburn?",
+  "back": "Typical heartburn symptoms, a normal endoscopy, and normal acid exposure time on pH monitoring, with no meaningful correlation between symptoms and reflux events."
+ },
+ {
+  "id": 222,
+  "domain": "gut_brain_disorders",
+  "front": "What defines reflux hypersensitivity?",
+  "back": "Normal acid exposure time on pH monitoring but a positive symptom association with physiologic reflux episodes, meaning the esophagus is oversensitive to normal amounts of reflux."
+ },
+ {
+  "id": 223,
+  "domain": "gut_brain_disorders",
+  "front": "How is functional chest pain diagnosed?",
+  "back": "As a diagnosis of exclusion, after cardiac causes are ruled out and after structural and motility esophageal disease has been excluded, including normal pH testing."
+ },
+ {
+  "id": 224,
+  "domain": "gut_brain_disorders",
+  "front": "What is globus, and does it correlate with structural disease?",
+  "back": "A persistent sensation of a lump or tightness in the throat without true dysphagia. It does not correlate with a structural lesion once standard evaluation, including endoscopy, is unremarkable."
+ },
+ {
+  "id": 225,
+  "domain": "gut_brain_disorders",
+  "front": "What class of medication treats functional esophageal disorders, and why?",
+  "back": "Low-dose neuromodulators such as tricyclic antidepressants, since they act centrally to reduce visceral hypersensitivity rather than addressing acid production."
+ },
+ {
+  "id": 226,
+  "domain": "gut_brain_disorders",
+  "front": "How is chronic nausea and vomiting syndrome distinguished from gastroparesis?",
+  "back": "It involves bothersome chronic nausea or vomiting for at least six months with normal or only mildly delayed gastric emptying, unlike gastroparesis which requires clearly delayed emptying."
+ },
+ {
+  "id": 227,
+  "domain": "gut_brain_disorders",
+  "front": "What defines cyclic vomiting syndrome?",
+  "back": "Stereotyped, recurrent, discrete episodes of intense vomiting separated by symptom-free intervals, often triggered by stress or infection."
+ },
+ {
+  "id": 228,
+  "domain": "gut_brain_disorders",
+  "front": "What condition should always be asked about in suspected cyclic vomiting syndrome, and why?",
+  "back": "Cannabinoid hyperemesis syndrome, since it overlaps clinically with cyclic vomiting syndrome and cessation of cannabis use is curative."
+ },
+ {
+  "id": 229,
+  "domain": "gut_brain_disorders",
+  "front": "How is functional dyspepsia defined?",
+  "back": "Bothersome postprandial fullness, early satiety, or epigastric pain or burning, present at least three months with symptom onset at least six months earlier, and a normal upper endoscopy."
+ },
+ {
+  "id": 230,
+  "domain": "gut_brain_disorders",
+  "front": "Name the two subtypes of functional dyspepsia.",
+  "back": "Postprandial distress syndrome, dominated by meal-related fullness and early satiety, and epigastric pain syndrome, dominated by epigastric pain or burning not necessarily related to meals."
+ },
+ {
+  "id": 231,
+  "domain": "gut_brain_disorders",
+  "front": "Why is Helicobacter pylori testing recommended for all dyspepsia patients?",
+  "back": "Eradication cures a subset of patients who actually have Helicobacter pylori-related dyspepsia rather than true functional disease."
+ },
+ {
+  "id": 232,
+  "domain": "gut_brain_disorders",
+  "front": "What is first-line therapy for epigastric pain syndrome versus postprandial distress syndrome?",
+  "back": "Proton pump inhibitors are first-line for epigastric pain syndrome, while prokinetic agents are often favored for postprandial distress syndrome."
+ },
+ {
+  "id": 233,
+  "domain": "gut_brain_disorders",
+  "front": "What is abdominophrenic dyssynergia?",
+  "back": "A reflex abnormality in which the diaphragm paradoxically contracts and the abdominal wall relaxes outward, causing visible distention despite normal total gut gas volume."
+ },
+ {
+  "id": 234,
+  "domain": "gut_brain_disorders",
+  "front": "What two conditions should be excluded in patients with unexplained bloating overlapping with irritable bowel syndrome?",
+  "back": "Celiac disease and small intestinal bacterial overgrowth."
+ },
+ {
+  "id": 235,
+  "domain": "gut_brain_disorders",
+  "front": "What defines centrally mediated abdominal pain syndrome?",
+  "back": "Chronic or frequently recurring abdominal pain poorly related to eating, bowel movements, or menses, not explained by another structural or motility diagnosis, arising from altered central pain processing."
+ },
+ {
+  "id": 236,
+  "domain": "gut_brain_disorders",
+  "front": "What defines abdominal migraine?",
+  "back": "A pediatric-onset syndrome with paroxysmal episodes of moderate to severe periumbilical pain lasting hours, often with headache, photophobia, nausea, or vomiting, and a personal or family history of migraine."
+ },
+ {
+  "id": 237,
+  "domain": "gut_brain_disorders",
+  "front": "What is narcotic bowel syndrome and its key clue?",
+  "back": "Also called opioid-induced gastrointestinal hyperalgesia, it is a paradoxical worsening of chronic abdominal pain with escalating opioid doses. The key clue is pain worsening despite dose escalation."
+ },
+ {
+  "id": 238,
+  "domain": "gut_brain_disorders",
+  "front": "What is the cornerstone of treatment for narcotic bowel syndrome?",
+  "back": "Gradual, supervised opioid tapering combined with neuromodulator support."
+ },
+ {
+  "id": 239,
+  "domain": "gut_brain_disorders",
+  "front": "What defines functional biliary-like pain and its management approach?",
+  "back": "Episodic biliary-type pain without gallstones or significant structural biliary or pancreatic abnormality. Management is conservative given the modest benefit and real procedural risk of endoscopic sphincterotomy."
+ },
+ {
+  "id": 240,
+  "domain": "gut_brain_disorders",
+  "front": "State the Rome IV frequency and duration criterion for irritable bowel syndrome.",
+  "back": "Recurrent abdominal pain at least one day per week in the last three months, with symptom onset at least six months earlier."
+ },
+ {
+  "id": 241,
+  "domain": "gut_brain_disorders",
+  "front": "What tool classifies irritable bowel syndrome subtype, and name the four subtypes.",
+  "back": "The Bristol stool scale. Subtypes are irritable bowel syndrome with constipation, with diarrhea, mixed type, and unclassified."
+ },
+ {
+  "id": 242,
+  "domain": "gut_brain_disorders",
+  "front": "What limited workup is appropriate for irritable bowel syndrome without alarm features?",
+  "back": "Celiac serology and, in diarrhea-predominant patients, fecal calprotectin to screen for inflammatory bowel disease."
+ },
+ {
+  "id": 243,
+  "domain": "gut_brain_disorders",
+  "front": "Name the gut-specific secretagogues used for constipation-predominant irritable bowel syndrome.",
+  "back": "Linaclotide and lubiprostone."
+ },
+ {
+  "id": 244,
+  "domain": "gut_brain_disorders",
+  "front": "What distinguishes levator ani syndrome from proctalgia fugax?",
+  "back": "Levator ani syndrome causes tenderness of the puborectalis sling with pain lasting minutes to hours, while proctalgia fugax causes brief, self-limited pain lasting seconds to a few minutes with a normal exam."
+ },
+ {
+  "id": 245,
+  "domain": "gut_brain_disorders",
+  "front": "What gut-directed psychological therapies have strong evidence in irritable bowel syndrome?",
+  "back": "Cognitive behavioral therapy and gut-directed hypnotherapy, both of which improve global symptoms through central pain processing pathways."
+ },
+ {
+  "id": 246,
+  "domain": "neoplastic_disorders",
+  "front": "What gene is mutated in Lynch syndrome?",
+  "back": "A germline mutation in one of the DNA mismatch repair genes: MLH1, MSH2, MSH6, or PMS2, or an EPCAM mutation silencing MSH2. This causes microsatellite instability, screened for with tumor immunohistochemistry or PCR testing."
+ },
+ {
+  "id": 247,
+  "domain": "neoplastic_disorders",
+  "front": "What is the most common extracolonic cancer in Lynch syndrome?",
+  "back": "Endometrial cancer. Lynch syndrome also raises risk of ovarian, gastric, small bowel, urothelial, and biliary tract cancers."
+ },
+ {
+  "id": 248,
+  "domain": "neoplastic_disorders",
+  "front": "What gene causes familial adenomatous polyposis (FAP)?",
+  "back": "The APC tumor suppressor gene on chromosome 5. Loss of APC causes hundreds to thousands of colonic adenomas, with colorectal cancer nearly universal by age 40 without colectomy."
+ },
+ {
+  "id": 249,
+  "domain": "neoplastic_disorders",
+  "front": "What is Gardner syndrome?",
+  "back": "An FAP variant that adds osteomas, dental abnormalities, epidermoid cysts, and desmoid tumors to the classic colonic polyposis picture."
+ },
+ {
+  "id": 250,
+  "domain": "neoplastic_disorders",
+  "front": "What is Turcot syndrome?",
+  "back": "FAP or Lynch syndrome combined with a central nervous system tumor. Medulloblastoma occurs with FAP, and glioblastoma occurs with Lynch syndrome."
+ },
+ {
+  "id": 251,
+  "domain": "neoplastic_disorders",
+  "front": "What system stages duodenal and periampullary adenomas in FAP?",
+  "back": "The Spigelman staging system, which accounts for polyp number, size, histology, and dysplasia grade to guide surveillance intervals."
+ },
+ {
+  "id": 252,
+  "domain": "neoplastic_disorders",
+  "front": "What gene causes familial atypical multiple mole melanoma (FAMMM) syndrome?",
+  "back": "CDKN2A, which encodes the tumor suppressor p16. This syndrome combines melanoma risk with a markedly increased lifetime pancreatic cancer risk, near 15 to 20 percent."
+ },
+ {
+  "id": 253,
+  "domain": "neoplastic_disorders",
+  "front": "What gene causes Peutz-Jeghers syndrome?",
+  "back": "STK11. It produces mucocutaneous pigmented macules on the lips and buccal mucosa plus hamartomatous GI polyps that can cause recurrent intussusception."
+ },
+ {
+  "id": 254,
+  "domain": "neoplastic_disorders",
+  "front": "Which BRCA gene carries a stronger pancreatic cancer association?",
+  "back": "BRCA2. BRCA2-associated pancreatic cancers may respond well to platinum chemotherapy and PARP inhibitors."
+ },
+ {
+  "id": 255,
+  "domain": "neoplastic_disorders",
+  "front": "What genes cause juvenile polyposis syndrome, and what other condition is linked?",
+  "back": "SMAD4 or BMPR1A. SMAD4 mutations also link to hereditary hemorrhagic telangiectasia, requiring screening for arteriovenous malformations."
+ },
+ {
+  "id": 256,
+  "domain": "neoplastic_disorders",
+  "front": "What is the most common benign esophageal tumor?",
+  "back": "Leiomyoma, arising from smooth muscle in the muscularis propria, appearing as a hypoechoic submucosal lesion on endoscopic ultrasound."
+ },
+ {
+  "id": 257,
+  "domain": "neoplastic_disorders",
+  "front": "What are the main risk factors for esophageal squamous cell carcinoma?",
+  "back": "Tobacco and alcohol use acting synergistically, plus very hot beverages, achalasia, caustic strictures, and Plummer-Vinson syndrome."
+ },
+ {
+  "id": 258,
+  "domain": "neoplastic_disorders",
+  "front": "What is the dominant risk factor for esophageal adenocarcinoma?",
+  "back": "Chronic gastroesophageal reflux disease leading to Barrett esophagus, intestinal metaplasia of the distal esophagus. Obesity is an independent risk factor."
+ },
+ {
+  "id": 259,
+  "domain": "neoplastic_disorders",
+  "front": "How often is nondysplastic Barrett esophagus monitored?",
+  "back": "Surveillance endoscopy every 3 to 5 years."
+ },
+ {
+  "id": 260,
+  "domain": "neoplastic_disorders",
+  "front": "How is confirmed high-grade dysplasia in Barrett esophagus treated?",
+  "back": "Endoscopic eradication therapy, usually radiofrequency ablation combined with resection of any visible nodularity."
+ },
+ {
+  "id": 261,
+  "domain": "neoplastic_disorders",
+  "front": "What imaging modality is primary for local T and N staging of esophageal cancer?",
+  "back": "Endoscopic ultrasound, combined with CT and PET for distant metastasis assessment."
+ },
+ {
+  "id": 262,
+  "domain": "neoplastic_disorders",
+  "front": "What gastric polyp type is linked to chronic proton pump inhibitor use?",
+  "back": "Fundic gland polyps, small and multiple in the gastric body and fundus, with essentially no malignant potential when sporadic."
+ },
+ {
+  "id": 263,
+  "domain": "neoplastic_disorders",
+  "front": "What causes gastric hyperplastic polyps and how do they respond to treatment?",
+  "back": "Chronic gastritis, often from H. pylori infection. They can regress after H. pylori eradication; those over 1 cm should be resected."
+ },
+ {
+  "id": 264,
+  "domain": "neoplastic_disorders",
+  "front": "What are the two Lauren classification subtypes of gastric adenocarcinoma?",
+  "back": "Intestinal type, forming gland-like structures and linked to H. pylori and atrophic gastritis, and diffuse type, with signet ring cells causing linitis plastica and linked to CDH1 mutations."
+ },
+ {
+  "id": 265,
+  "domain": "neoplastic_disorders",
+  "front": "What is linitis plastica?",
+  "back": "A rigid, thickened stomach wall caused by diffuse infiltration of poorly cohesive signet ring cells, the hallmark of diffuse type gastric adenocarcinoma."
+ },
+ {
+  "id": 266,
+  "domain": "neoplastic_disorders",
+  "front": "What treatment can cure early localized gastric MALT lymphoma?",
+  "back": "H. pylori eradication therapy alone, since early localized MALT lymphoma frequently regresses completely once the infection is cleared."
+ },
+ {
+  "id": 267,
+  "domain": "neoplastic_disorders",
+  "front": "What immunohistochemical marker confirms a gastrointestinal stromal tumor (GIST)?",
+  "back": "CD117 (KIT). Most GISTs carry activating KIT or PDGFRA mutations and arise from the interstitial cells of Cajal."
+ },
+ {
+  "id": 268,
+  "domain": "neoplastic_disorders",
+  "front": "What drug treats unresectable or metastatic GIST?",
+  "back": "Imatinib, a tyrosine kinase inhibitor targeting the KIT or PDGFRA mutation driving the tumor."
+ },
+ {
+  "id": 269,
+  "domain": "neoplastic_disorders",
+  "front": "Where does small bowel adenocarcinoma most often arise?",
+  "back": "The duodenum, particularly near the ampulla. It shares risk factors with colorectal cancer including Lynch syndrome, FAP, and Crohn disease."
+ },
+ {
+  "id": 270,
+  "domain": "neoplastic_disorders",
+  "front": "When does carcinoid syndrome typically develop in small bowel neuroendocrine tumors?",
+  "back": "Only once liver metastases are present, since the liver normally metabolizes vasoactive substances like serotonin before they reach systemic circulation."
+ },
+ {
+  "id": 271,
+  "domain": "neoplastic_disorders",
+  "front": "What small bowel lymphoma is linked to poorly controlled celiac disease?",
+  "back": "Enteropathy-associated T cell lymphoma."
+ },
+ {
+  "id": 272,
+  "domain": "neoplastic_disorders",
+  "front": "What is the most common benign liver tumor and its imaging pattern?",
+  "back": "Hepatic hemangioma, showing peripheral nodular enhancement with progressive fill-in on contrast imaging. Biopsy is avoided due to bleeding risk."
+ },
+ {
+  "id": 273,
+  "domain": "neoplastic_disorders",
+  "front": "What is the classic imaging finding of focal nodular hyperplasia?",
+  "back": "A central scar with a spoke-wheel pattern of arterial supply. It carries no malignant potential and is simply observed."
+ },
+ {
+  "id": 274,
+  "domain": "neoplastic_disorders",
+  "front": "What is hepatic adenoma strongly linked to, and what is its main risk?",
+  "back": "Oral contraceptive and anabolic steroid use. It carries real hemorrhage risk, especially over 5 cm, and a smaller malignant transformation risk."
+ },
+ {
+  "id": 275,
+  "domain": "neoplastic_disorders",
+  "front": "Why is hepatitis B unusual among causes of hepatocellular carcinoma?",
+  "back": "It can cause hepatocellular carcinoma even without cirrhosis, through direct viral integration into host DNA."
+ },
+ {
+  "id": 276,
+  "domain": "neoplastic_disorders",
+  "front": "What is the hepatocellular carcinoma surveillance protocol in cirrhotic patients?",
+  "back": "Ultrasound, with or without alpha-fetoprotein, every 6 months."
+ },
+ {
+  "id": 277,
+  "domain": "neoplastic_disorders",
+  "front": "How can hepatocellular carcinoma be diagnosed without biopsy in cirrhotic patients?",
+  "back": "A nodule showing arterial phase hyperenhancement with portal venous or delayed phase washout meets standardized imaging criteria for diagnosis."
+ },
+ {
+  "id": 278,
+  "domain": "neoplastic_disorders",
+  "front": "What is the second most common primary liver cancer?",
+  "back": "Intrahepatic cholangiocarcinoma, with risk factors including primary sclerosing cholangitis, liver fluke infection, and hepatolithiasis."
+ },
+ {
+  "id": 279,
+  "domain": "neoplastic_disorders",
+  "front": "Why are choledochal cysts surgically excised?",
+  "back": "They carry a significantly increased lifetime risk of cholangiocarcinoma despite being congenital malformations rather than true neoplasms."
+ },
+ {
+  "id": 280,
+  "domain": "neoplastic_disorders",
+  "front": "What gallbladder polyp features suggest a true neoplasm rather than a cholesterol polyp?",
+  "back": "Size over 1 cm, growth on serial imaging, a sessile shape, and coexisting gallstones or primary sclerosing cholangitis."
+ },
+ {
+  "id": 281,
+  "domain": "neoplastic_disorders",
+  "front": "What is a porcelain gallbladder, and what cancer is it linked to?",
+  "back": "Extensive dystrophic calcification of the gallbladder wall, strongly associated with gallbladder carcinoma, especially with large gallstones."
+ },
+ {
+  "id": 282,
+  "domain": "neoplastic_disorders",
+  "front": "What is a Klatskin tumor?",
+  "back": "A perihilar cholangiocarcinoma occurring at the confluence of the right and left hepatic ducts."
+ },
+ {
+  "id": 283,
+  "domain": "neoplastic_disorders",
+  "front": "What is the strongest Western risk factor for cholangiocarcinoma?",
+  "back": "Primary sclerosing cholangitis, especially with coexisting inflammatory bowel disease."
+ },
+ {
+  "id": 284,
+  "domain": "neoplastic_disorders",
+  "front": "Which pancreatic cyst has essentially no malignant potential?",
+  "back": "Serous cystadenoma, showing a microcystic honeycomb appearance with a central scar."
+ },
+ {
+  "id": 285,
+  "domain": "neoplastic_disorders",
+  "front": "How does mucinous cystic neoplasm differ from IPMN?",
+  "back": "Mucinous cystic neoplasm occurs almost exclusively in women, usually body or tail, and does not communicate with the main duct, unlike IPMN which does."
+ },
+ {
+  "id": 286,
+  "domain": "neoplastic_disorders",
+  "front": "Which IPMN feature carries the highest malignant risk?",
+  "back": "Main pancreatic duct involvement, along with worrisome features like an enhancing mural nodule or dilated main duct."
+ },
+ {
+  "id": 287,
+  "domain": "neoplastic_disorders",
+  "front": "What syndrome does gastrinoma cause, and what are its features?",
+  "back": "Zollinger-Ellison syndrome, with refractory peptic ulcers and diarrhea from excess gastrin-driven acid secretion."
+ },
+ {
+  "id": 288,
+  "domain": "neoplastic_disorders",
+  "front": "What is Courvoisier sign?",
+  "back": "A palpable, nontender, distended gallbladder from distal biliary obstruction, classically seen with pancreatic head cancer causing painless jaundice."
+ },
+ {
+  "id": 289,
+  "domain": "neoplastic_disorders",
+  "front": "What limits CA 19-9 as a pancreatic cancer marker?",
+  "back": "It can be falsely low in patients lacking the Lewis antigen, and it lacks specificity since benign biliary obstruction can also elevate it."
+ },
+ {
+  "id": 290,
+  "domain": "neoplastic_disorders",
+  "front": "What is the adenoma to carcinoma sequence?",
+  "back": "Stepwise mutation accumulation: APC loss allowing proliferation, then KRAS mutation, then loss of 18q and DCC/SMAD4, then TP53 loss enabling invasion."
+ },
+ {
+  "id": 291,
+  "domain": "neoplastic_disorders",
+  "front": "Why are sessile serrated lesions easy to miss on colonoscopy?",
+  "back": "They are flat, often right-sided, and covered with a mucous cap, contributing to interval right-sided cancers despite recent clean colonoscopies."
+ },
+ {
+  "id": 292,
+  "domain": "neoplastic_disorders",
+  "front": "At what age does average risk colorectal cancer screening begin?",
+  "back": "Age 45, using colonoscopy every 10 years or a stool-based test at its own recommended interval."
+ },
+ {
+  "id": 293,
+  "domain": "neoplastic_disorders",
+  "front": "What tumor molecular findings predict poor response to anti-EGFR therapy in colorectal cancer?",
+  "back": "RAS mutations, including KRAS, which predict lack of response to anti-EGFR antibody therapy."
+ },
+ {
+  "id": 294,
+  "domain": "neoplastic_disorders",
+  "front": "What molecular finding predicts good response to checkpoint inhibitors in colorectal cancer?",
+  "back": "Microsatellite instability-high status, often related to Lynch syndrome or sporadic mismatch repair deficiency."
+ },
+ {
+  "id": 295,
+  "domain": "neoplastic_disorders",
+  "front": "What is a Sister Mary Joseph nodule?",
+  "back": "A palpable periumbilical metastatic nodule, most often from gastric, pancreatic, ovarian, or colonic adenocarcinoma, usually signaling widespread metastatic disease."
+ },
+ {
+  "id": 296,
+  "domain": "liver_disorders",
+  "front": "What percentage of hepatic blood flow comes from the portal vein versus the hepatic artery?",
+  "back": "The portal vein supplies about 70 to 75 percent of total hepatic blood flow, while the hepatic artery supplies the remaining 25 to 30 percent. This dual supply explains why isolated hepatic artery occlusion rarely causes infarction in a normal liver."
+ },
+ {
+  "id": 297,
+  "domain": "liver_disorders",
+  "front": "What is the Couinaud classification system?",
+  "back": "It divides the liver into eight functional segments based on portal vein branching and hepatic vein drainage rather than the older right and left lobe anatomy. Each segment has independent vascular supply and outflow, allowing surgical resection of individual segments."
+ },
+ {
+  "id": 298,
+  "domain": "liver_disorders",
+  "front": "Why does INR rise before albumin falls in acute liver injury?",
+  "back": "Clotting factors have much shorter half-lives, hours to a couple of days, than albumin, which has a half-life of about three weeks. A drop in hepatic synthesis therefore shows up in the INR much faster than in serum albumin."
+ },
+ {
+  "id": 299,
+  "domain": "liver_disorders",
+  "front": "What does isolated unconjugated hyperbilirubinemia suggest?",
+  "back": "It suggests either increased bilirubin production from hemolysis or impaired hepatocyte conjugation, as in Gilbert syndrome. This differs from conjugated hyperbilirubinemia, which points to hepatocellular injury or biliary obstruction."
+ },
+ {
+  "id": 300,
+  "domain": "liver_disorders",
+  "front": "What is enterohepatic circulation of bile acids?",
+  "back": "Bile acids made from cholesterol are secreted into bile, delivered to the intestine, and reabsorbed in the terminal ileum to be recycled back to the liver. Disruption from ileal disease or resection reduces the bile acid pool and impairs fat absorption."
+ },
+ {
+  "id": 301,
+  "domain": "liver_disorders",
+  "front": "What does an AST to ALT ratio greater than 2 suggest?",
+  "back": "It suggests alcohol-related liver disease. Chronic alcohol use depletes pyridoxal phosphate, a cofactor needed more heavily for ALT synthesis than AST, producing a disproportionately low ALT relative to AST."
+ },
+ {
+  "id": 302,
+  "domain": "liver_disorders",
+  "front": "What is the cholestatic biochemical pattern of liver injury?",
+  "back": "Elevated alkaline phosphatase and gamma-glutamyl transferase with relatively normal aminotransferases, reflecting injury to the biliary system rather than hepatocytes. This contrasts with the hepatocellular pattern of elevated AST and ALT."
+ },
+ {
+  "id": 303,
+  "domain": "liver_disorders",
+  "front": "What laboratory values make up the MELD-Na score?",
+  "back": "Creatinine, bilirubin, INR, sodium, serum albumin, and patient sex. This is MELD 3.0, which replaced MELD-Na for US transplant allocation in January 2023, predicts 90-day mortality, and lowers the creatinine cap to 3.0 mg/dL."
+ },
+ {
+  "id": 304,
+  "domain": "liver_disorders",
+  "front": "What laboratory and clinical values make up the Child-Pugh score?",
+  "back": "Bilirubin, albumin, INR, presence and severity of ascites, and grade of hepatic encephalopathy. It classifies cirrhosis severity into classes A, B, and C and is useful for estimating surgical risk."
+ },
+ {
+  "id": 305,
+  "domain": "liver_disorders",
+  "front": "Why is transjugular liver biopsy sometimes preferred over percutaneous biopsy?",
+  "back": "It is safer in patients with coagulopathy or significant ascites, and it allows simultaneous measurement of the hepatic venous pressure gradient during the same procedure."
+ },
+ {
+  "id": 306,
+  "domain": "liver_disorders",
+  "front": "What does vibration-controlled transient elastography measure?",
+  "back": "It measures shear wave velocity through liver tissue, which correlates with liver stiffness and therefore fibrosis stage. Faster velocity indicates stiffer, more fibrotic tissue."
+ },
+ {
+  "id": 307,
+  "domain": "liver_disorders",
+  "front": "What advantage does magnetic resonance elastography have over transient elastography?",
+  "back": "It assesses the entire liver rather than a small sampled region, improving accuracy in patients with heterogeneous fibrosis or obesity, though it is more expensive and less available."
+ },
+ {
+  "id": 308,
+  "domain": "liver_disorders",
+  "front": "What is the FIB-4 index used for?",
+  "back": "It is an inexpensive noninvasive fibrosis screening calculator using age, AST, ALT, and platelet count to identify patients who need further fibrosis assessment such as elastography or biopsy."
+ },
+ {
+  "id": 309,
+  "domain": "liver_disorders",
+  "front": "How is the hepatic venous pressure gradient calculated and what is a normal value?",
+  "back": "It is the wedged hepatic venous pressure minus the free hepatic venous pressure. A normal gradient is 1 to 5 mmHg."
+ },
+ {
+  "id": 310,
+  "domain": "liver_disorders",
+  "front": "What hepatic venous pressure gradient defines clinically significant portal hypertension?",
+  "back": "A gradient of 10 mmHg or higher defines clinically significant portal hypertension, the threshold above which varices, ascites, and decompensation become likely."
+ },
+ {
+  "id": 311,
+  "domain": "liver_disorders",
+  "front": "What hepatic venous pressure gradient threshold is most associated with variceal bleeding risk?",
+  "back": "A gradient of 12 mmHg or higher is the threshold most closely associated with the risk of variceal hemorrhage."
+ },
+ {
+  "id": 312,
+  "domain": "liver_disorders",
+  "front": "What are the three anatomic categories of portal hypertension resistance?",
+  "back": "Presinusoidal, such as portal vein thrombosis, sinusoidal, dominated by cirrhosis, and postsinusoidal, such as hepatic vein outflow obstruction or severe right heart failure."
+ },
+ {
+  "id": 313,
+  "domain": "liver_disorders",
+  "front": "What drives the hyperdynamic circulatory state in decompensated cirrhosis?",
+  "back": "Excess nitric oxide causes splanchnic arterial vasodilation, increasing portal venous inflow and worsening the hemodynamic derangement of portal hypertension over time."
+ },
+ {
+  "id": 314,
+  "domain": "liver_disorders",
+  "front": "What four major complications does portal hypertension directly cause?",
+  "back": "Varices, ascites and hepatic hydrothorax, hepatorenal syndrome, and hepatic encephalopathy. Portal hypertension is the shared upstream driver of all four."
+ },
+ {
+  "id": 315,
+  "domain": "liver_disorders",
+  "front": "What is the first-line pharmacologic therapy for primary prophylaxis of a first variceal bleed?",
+  "back": "Nonselective beta blockers such as propranolol, nadolol, or carvedilol, which reduce portal pressure through decreased cardiac output and splanchnic vasoconstriction."
+ },
+ {
+  "id": 316,
+  "domain": "liver_disorders",
+  "front": "What endoscopic finding on varices predicts a higher risk of bleeding?",
+  "back": "Red wale marks, longitudinal red streaks on the variceal surface indicating a thinned wall, along with larger variceal size."
+ },
+ {
+  "id": 317,
+  "domain": "liver_disorders",
+  "front": "Why are prophylactic antibiotics given during acute variceal hemorrhage?",
+  "back": "Bacterial infection is common in cirrhotic patients with variceal bleeding and worsens rebleeding risk and mortality, so antibiotics are given regardless of documented infection."
+ },
+ {
+  "id": 318,
+  "domain": "liver_disorders",
+  "front": "Why is overtransfusion avoided during acute variceal hemorrhage?",
+  "back": "Overtransfusion to a high hemoglobin target can raise portal pressure and provoke rebleeding, so a restrictive transfusion strategy is preferred."
+ },
+ {
+  "id": 319,
+  "domain": "liver_disorders",
+  "front": "What is the preferred endoscopic treatment for bleeding gastric varices?",
+  "back": "Injection of a tissue adhesive such as cyanoacrylate, since band ligation is technically difficult and less effective in the thicker-walled gastric fundus."
+ },
+ {
+  "id": 320,
+  "domain": "liver_disorders",
+  "front": "What is TIPS and what is its main drawback?",
+  "back": "A transjugular intrahepatic portosystemic shunt directly connects the portal and hepatic veins to decompress portal pressure rapidly. It can precipitate or worsen hepatic encephalopathy because it diverts unfiltered portal blood into systemic circulation."
+ },
+ {
+  "id": 321,
+  "domain": "liver_disorders",
+  "front": "What is balloon tamponade used for in variceal bleeding?",
+  "back": "It is a temporary bridge to definitive therapy such as TIPS in massive hemorrhage refractory to other measures, not a definitive treatment on its own."
+ },
+ {
+  "id": 322,
+  "domain": "liver_disorders",
+  "front": "What is the serum-ascites albumin gradient and its diagnostic cutoff?",
+  "back": "Serum albumin minus ascitic fluid albumin. A SAAG of 1.1 g/dL or higher indicates portal hypertension as the cause with about 97 percent sensitivity, while a lower value suggests a peritoneal cause."
+ },
+ {
+  "id": 323,
+  "domain": "liver_disorders",
+  "front": "What ascitic fluid neutrophil count diagnoses spontaneous bacterial peritonitis?",
+  "back": "An absolute neutrophil count of 250 cells per cubic millimeter or higher without an evident surgical source of infection."
+ },
+ {
+  "id": 324,
+  "domain": "liver_disorders",
+  "front": "When is intravenous albumin given for SBP and why?",
+  "back": "On day 1 and day 3 of treatment, which reduces the risk of hepatorenal syndrome in patients with significant renal impairment or elevated bilirubin."
+ },
+ {
+  "id": 325,
+  "domain": "liver_disorders",
+  "front": "What is the standard first-line diuretic regimen for cirrhotic ascites?",
+  "back": "Combined spironolactone and furosemide, typically in a ratio of about 100 to 40 mg, titrated together with sodium restriction to maintain potassium balance."
+ },
+ {
+  "id": 326,
+  "domain": "liver_disorders",
+  "front": "How is refractory ascites defined?",
+  "back": "Ascites that does not respond to maximal tolerated diuretic doses with sodium restriction, or that recurs rapidly after large volume paracentesis."
+ },
+ {
+  "id": 327,
+  "domain": "liver_disorders",
+  "front": "What is hepatic hydrothorax and why does a chest tube get avoided?",
+  "back": "A pleural effusion, usually right sided, from ascitic fluid passing through small diaphragmatic defects into the pleural space. Chest tubes cause large ongoing protein and fluid losses without treating the underlying portal hypertension."
+ },
+ {
+  "id": 328,
+  "domain": "liver_disorders",
+  "front": "What is hepatorenal syndrome at its core?",
+  "back": "A functional, hemodynamically mediated form of acute kidney injury in advanced cirrhosis with ascites, caused by intense renal vasoconstriction from effective arterial underfilling, without intrinsic structural kidney disease."
+ },
+ {
+  "id": 329,
+  "domain": "liver_disorders",
+  "front": "What must be excluded before diagnosing hepatorenal syndrome?",
+  "back": "Volume-responsive prerenal azotemia, shock, recent nephrotoxic drug exposure, and structural kidney disease, confirmed by failure to improve after two days of diuretic withdrawal and albumin volume expansion."
+ },
+ {
+  "id": 330,
+  "domain": "liver_disorders",
+  "front": "What is the preferred medical treatment for hepatorenal syndrome?",
+  "back": "Terlipressin plus albumin, now FDA-approved and available as a preferred first-line regimen in the United States since September 2022. Midodrine, octreotide, and albumin combination therapy is an alternative when terlipressin is contraindicated or unavailable."
+ },
+ {
+  "id": 331,
+  "domain": "liver_disorders",
+  "front": "What is the only definitive cure for hepatorenal syndrome?",
+  "back": "Liver transplantation, since it is the only treatment that reverses the underlying splanchnic vasodilation and portal hypertension driving renal vasoconstriction."
+ },
+ {
+  "id": 332,
+  "domain": "liver_disorders",
+  "front": "What causes ammonia to accumulate and cause hepatic encephalopathy?",
+  "back": "Reduced hepatocyte urea cycle function or portosystemic shunting allows gut-derived ammonia to bypass hepatic clearance, accumulate in the blood, and cross into the brain."
+ },
+ {
+  "id": 333,
+  "domain": "liver_disorders",
+  "front": "What happens to ammonia once it crosses the blood brain barrier?",
+  "back": "Astrocytes convert it to glutamine, and the resulting osmotic buildup causes astrocyte swelling that disrupts normal neurotransmission."
+ },
+ {
+  "id": 334,
+  "domain": "liver_disorders",
+  "front": "What is the West Haven grading system used for?",
+  "back": "It grades hepatic encephalopathy severity from grade 0, minimal changes detectable only on specialized testing, to grade 4, coma."
+ },
+ {
+  "id": 335,
+  "domain": "liver_disorders",
+  "front": "Is asterixis specific for hepatic encephalopathy?",
+  "back": "No. Asterixis is a classic finding in grade 2 encephalopathy and above but is nonspecific, occurring in other metabolic encephalopathies such as uremia and hypercapnia."
+ },
+ {
+  "id": 336,
+  "domain": "liver_disorders",
+  "front": "Name five common precipitants of hepatic encephalopathy.",
+  "back": "Gastrointestinal bleeding, infection, constipation, dehydration or diuretic overuse, and electrolyte disturbances such as hypokalemia. Sedative use and new portosystemic shunts including TIPS are also common triggers."
+ },
+ {
+  "id": 337,
+  "domain": "liver_disorders",
+  "front": "How does lactulose treat hepatic encephalopathy?",
+  "back": "Colonic bacteria metabolize it into acidic byproducts that trap ammonia as ammonium in the gut lumen, and its laxative effect reduces colonic transit time and toxin absorption."
+ },
+ {
+  "id": 338,
+  "domain": "liver_disorders",
+  "front": "When is rifaximin added to encephalopathy treatment?",
+  "back": "For patients with recurrent encephalopathy episodes despite adequate lactulose dosing. It is a poorly absorbed antibiotic that reduces ammoniagenic gut bacteria."
+ },
+ {
+  "id": 339,
+  "domain": "liver_disorders",
+  "front": "Why is routine protein restriction no longer recommended for hepatic encephalopathy?",
+  "back": "It worsens malnutrition and sarcopenia, and adequate protein supports muscle mass, which helps clear ammonia when hepatic clearance is impaired."
+ },
+ {
+  "id": 340,
+  "domain": "liver_disorders",
+  "front": "What is hepatopulmonary syndrome and what are its classic symptoms?",
+  "back": "Intrapulmonary vascular dilation causing ventilation-perfusion mismatch in liver disease and portal hypertension. Classic symptoms are platypnea, dyspnea worsened when upright, and orthodeoxia, oxygen desaturation when upright."
+ },
+ {
+  "id": 341,
+  "domain": "liver_disorders",
+  "front": "How is hepatopulmonary syndrome confirmed?",
+  "back": "Contrast-enhanced echocardiography with agitated saline showing delayed appearance of microbubbles in the left heart, confirming intrapulmonary shunting."
+ },
+ {
+  "id": 342,
+  "domain": "liver_disorders",
+  "front": "What distinguishes portopulmonary hypertension from hepatopulmonary syndrome?",
+  "back": "Portopulmonary hypertension involves pulmonary arterial vasoconstriction and remodeling with elevated mean pulmonary artery pressure and pulmonary vascular resistance but normal wedge pressure, unlike the vascular dilation seen in hepatopulmonary syndrome."
+ },
+ {
+  "id": 343,
+  "domain": "liver_disorders",
+  "front": "What is the classic triad of Budd-Chiari syndrome and its cause?",
+  "back": "Abdominal pain, ascites, and hepatomegaly, caused by hepatic venous outflow obstruction, usually from an underlying thrombotic tendency. The caudate lobe is often spared due to separate venous drainage into the inferior vena cava."
+ },
+ {
+  "id": 344,
+  "domain": "liver_disorders",
+  "front": "What causes periportal pipestem fibrosis and portal hypertension in schistosomiasis?",
+  "back": "Egg deposition and granuloma formation in small portal venules causes presinusoidal fibrosis that obstructs portal flow while largely sparing hepatocyte function, giving a comparatively favorable prognosis if treated."
+ },
+ {
+  "id": 345,
+  "domain": "liver_disorders",
+  "front": "What condition should be suspected when a patient has severe portal hypertension complications but normal bilirubin, albumin, and INR?",
+  "back": "A noncirrhotic cause of portal hypertension, such as idiopathic noncirrhotic portal hypertension or congenital hepatic fibrosis, especially if the patient has coexisting polycystic kidney disease."
+ },
+ {
+  "id": 346,
+  "domain": "liver_disorders",
+  "front": "What is the key serologic difference between vaccination and resolved natural hepatitis B infection?",
+  "back": "Vaccination produces only a positive anti-HBs with everything else negative, since the vaccine contains no core antigen. Resolved natural infection shows a positive total anti-HBc along with the positive anti-HBs, reflecting real past exposure to the whole virus."
+ },
+ {
+  "id": 347,
+  "domain": "liver_disorders",
+  "front": "What does a positive IgM anti-HBc specifically indicate?",
+  "back": "Recent, acute hepatitis B infection within roughly the past six months. It is negative in chronic infection, resolved infection, and vaccination, making it the key marker that isolates a truly acute case."
+ },
+ {
+  "id": 348,
+  "domain": "liver_disorders",
+  "front": "Why is hepatitis D infection always seen only with hepatitis B?",
+  "back": "Hepatitis D is a defective virus that cannot make its own envelope and must borrow hepatitis B surface antigen to form complete viral particles. Without hepatitis B infection, hepatitis D cannot establish infection at all."
+ },
+ {
+  "id": 349,
+  "domain": "liver_disorders",
+  "front": "Coinfection versus superinfection in hepatitis D, what is the difference?",
+  "back": "Coinfection is simultaneous acquisition of hepatitis B and D together, which often resolves together. Superinfection is hepatitis D infecting someone with existing chronic hepatitis B, which typically causes more severe and rapidly progressive liver disease."
+ },
+ {
+  "id": 350,
+  "domain": "liver_disorders",
+  "front": "What confirms active hepatitis C infection after a positive antibody screen?",
+  "back": "HCV RNA testing. A positive antibody alone only shows past exposure, which may have already cleared, so RNA testing is required before considering treatment for active infection."
+ },
+ {
+  "id": 351,
+  "domain": "liver_disorders",
+  "front": "Does curing hepatitis C with direct-acting antivirals eliminate liver cancer risk in cirrhosis?",
+  "back": "No. Sustained virologic response reduces but does not eliminate hepatocellular carcinoma risk once cirrhosis is present, so surveillance with ultrasound and alpha-fetoprotein must continue indefinitely."
+ },
+ {
+  "id": 352,
+  "domain": "liver_disorders",
+  "front": "Which autoantibodies characterize type 1 versus type 2 autoimmune hepatitis?",
+  "back": "Type 1, more common in adults, is associated with ANA and anti-smooth muscle antibody. Type 2, more common in children, is associated with anti-liver kidney microsomal antibody (anti-LKM1)."
+ },
+ {
+  "id": 353,
+  "domain": "liver_disorders",
+  "front": "What is the classic biopsy finding in autoimmune hepatitis?",
+  "back": "Interface hepatitis with a plasma-cell-rich inflammatory infiltrate. This distinguishes it from the bile-duct-centered lymphocytic injury seen in primary biliary cholangitis."
+ },
+ {
+  "id": 354,
+  "domain": "liver_disorders",
+  "front": "What is standard induction therapy for autoimmune hepatitis?",
+  "back": "Corticosteroids combined with azathioprine as a steroid-sparing maintenance agent. Many patients need long-term low-dose therapy since relapse is common if treatment is withdrawn too early."
+ },
+ {
+  "id": 355,
+  "domain": "liver_disorders",
+  "front": "What antibody is positive in the large majority of primary biliary cholangitis patients?",
+  "back": "Antimitochondrial antibody. Its presence, together with a cholestatic enzyme pattern and typical demographic, usually makes liver biopsy unnecessary to confirm the diagnosis."
+ },
+ {
+  "id": 356,
+  "domain": "liver_disorders",
+  "front": "What is first-line therapy for primary biliary cholangitis, and what if response is inadequate?",
+  "back": "Ursodeoxycholic acid is first-line. If the biochemical response is inadequate after one year, options now include obeticholic acid (restricted to patients without cirrhosis due to a 2024 FDA boxed warning for hepatic decompensation in cirrhotics), the newer PPAR agonists elafibranor or seladelpar, or a fibrate."
+ },
+ {
+  "id": 357,
+  "domain": "liver_disorders",
+  "front": "What symptom often precedes jaundice by years in primary biliary cholangitis?",
+  "back": "Pruritus, often accompanied by fatigue, frequently appears well before any visible jaundice and can severely affect quality of life even in early disease."
+ },
+ {
+  "id": 358,
+  "domain": "liver_disorders",
+  "front": "What is the classic cholangiographic finding in primary sclerosing cholangitis?",
+  "back": "A beaded appearance of multifocal strictures and dilations affecting both intrahepatic and extrahepatic bile ducts, reflecting chronic inflammation and fibrosis of the biliary tree."
+ },
+ {
+  "id": 359,
+  "domain": "liver_disorders",
+  "front": "What inflammatory bowel disease is most strongly linked to primary sclerosing cholangitis?",
+  "back": "Ulcerative colitis. Patients with both conditions need earlier and more frequent colorectal cancer surveillance than patients with ulcerative colitis alone."
+ },
+ {
+  "id": 360,
+  "domain": "liver_disorders",
+  "front": "How does IgG4-related sclerosing cholangitis differ from primary sclerosing cholangitis?",
+  "back": "IgG4-related disease responds well to corticosteroids and is not linked to ulcerative colitis, while primary sclerosing cholangitis does not respond to steroids and has a strong ulcerative colitis association."
+ },
+ {
+  "id": 361,
+  "domain": "liver_disorders",
+  "front": "What cancer must be excluded with any new dominant stricture in primary sclerosing cholangitis?",
+  "back": "Cholangiocarcinoma. Patients with primary sclerosing cholangitis carry a significantly increased lifetime risk, so a new stricture cannot be assumed benign without evaluation."
+ },
+ {
+  "id": 362,
+  "domain": "liver_disorders",
+  "front": "What AST to ALT ratio is classic for alcohol-associated liver injury?",
+  "back": "Greater than two. This pattern, along with transaminases rarely rising above the low hundreds, helps distinguish alcohol-related injury from viral or metabolic causes of hepatitis."
+ },
+ {
+  "id": 363,
+  "domain": "liver_disorders",
+  "front": "What score identifies severe alcoholic hepatitis warranting corticosteroid consideration?",
+  "back": "The Maddrey discriminant function. A score of 32 or higher defines severe disease, for which a course of corticosteroids can be considered absent contraindications like active infection."
+ },
+ {
+  "id": 364,
+  "domain": "liver_disorders",
+  "front": "What is the single most important intervention across every stage of alcohol-associated liver disease?",
+  "back": "Sustained abstinence from alcohol. It can even reverse simple steatosis and remains the most important factor in outcomes regardless of disease stage."
+ },
+ {
+  "id": 365,
+  "domain": "liver_disorders",
+  "front": "What noninvasive score is the first step to risk-stratify fibrosis in suspected MASLD?",
+  "back": "The FIB-4 index, which combines age, transaminases, and platelet count. An elevated result prompts further testing such as transient elastography before considering biopsy."
+ },
+ {
+  "id": 366,
+  "domain": "liver_disorders",
+  "front": "What weight loss target improves both steatosis and fibrosis in MASH?",
+  "back": "At least seven to ten percent body weight loss achieved through diet and exercise, which has demonstrated benefit for both the fat content and fibrosis stage of the liver."
+ },
+ {
+  "id": 367,
+  "domain": "liver_disorders",
+  "front": "What is the leading cause of death in most patients with MASLD?",
+  "back": "Cardiovascular disease, not liver-related complications, reflecting the shared metabolic risk factors between fatty liver disease and cardiovascular disease."
+ },
+ {
+  "id": 368,
+  "domain": "liver_disorders",
+  "front": "What genotype of alpha-1 antitrypsin deficiency carries the highest liver disease risk?",
+  "back": "PiZZ. The abnormal Z-variant protein is not properly secreted and accumulates within hepatocytes, causing direct injury, and this genotype also carries the highest emphysema risk."
+ },
+ {
+  "id": 369,
+  "domain": "liver_disorders",
+  "front": "Why is liver transplant curative for alpha-1 antitrypsin deficiency liver disease?",
+  "back": "Because the new liver produces normal protein instead of the misfolded variant, eliminating the hepatocyte injury mechanism, even though the lung disease risk from the original genotype remains."
+ },
+ {
+  "id": 370,
+  "domain": "liver_disorders",
+  "front": "What gene is mutated in the majority of hereditary hemochromatosis cases?",
+  "back": "HFE. This mutation leads to excessive intestinal iron absorption, eventually causing iron deposition in the liver, heart, pancreas, joints, and skin if untreated."
+ },
+ {
+  "id": 371,
+  "domain": "liver_disorders",
+  "front": "What is first-line treatment for hereditary hemochromatosis?",
+  "back": "Therapeutic phlebotomy, started as early as possible once diagnosis is confirmed, to prevent irreversible organ damage even in patients without symptoms yet."
+ },
+ {
+  "id": 372,
+  "domain": "liver_disorders",
+  "front": "What gene is mutated in Wilson disease, and what does it normally do?",
+  "back": "ATP7B, which normally helps excrete copper into bile. Its mutation causes copper accumulation in the liver, brain, and eyes, producing combined liver and neuropsychiatric disease."
+ },
+ {
+  "id": 373,
+  "domain": "liver_disorders",
+  "front": "What eye finding is classic for Wilson disease?",
+  "back": "Kayser-Fleischer rings, seen on slit-lamp examination, caused by copper deposition in the cornea. They occur alongside low ceruloplasmin and elevated urinary copper excretion."
+ },
+ {
+  "id": 374,
+  "domain": "liver_disorders",
+  "front": "What liver disease mechanism is seen in cystic fibrosis?",
+  "back": "Thick, obstructive biliary secretions from abnormal CFTR function, which can progress from focal biliary cirrhosis to overt cirrhosis with portal hypertension in some patients."
+ },
+ {
+  "id": 375,
+  "domain": "liver_disorders",
+  "front": "What is sickle cell hepatopathy, and how is severe intrahepatic cholestasis treated?",
+  "back": "A spectrum of sickle cell disease-related liver injury from sinusoidal obstruction by sickled cells. Severe intrahepatic cholestasis is treated with exchange transfusion."
+ },
+ {
+  "id": 376,
+  "domain": "liver_disorders",
+  "front": "How does progressive familial intrahepatic cholestasis differ from benign recurrent intrahepatic cholestasis?",
+  "back": "Both involve the same bile transport genes, but progressive familial disease causes chronic progressive cholestasis, while benign recurrent disease causes self-limited episodes that fully resolve between attacks."
+ },
+ {
+  "id": 377,
+  "domain": "liver_disorders",
+  "front": "What tool guides N-acetylcysteine treatment after a single acute acetaminophen overdose?",
+  "back": "The Rumack-Matthew nomogram, which plots serum acetaminophen level against time since ingestion to determine whether treatment is indicated."
+ },
+ {
+  "id": 378,
+  "domain": "liver_disorders",
+  "front": "What is the difference between predictable and idiosyncratic drug-induced liver injury?",
+  "back": "Predictable injury, like acetaminophen toxicity, is dose-dependent and expected. Idiosyncratic injury, such as from amoxicillin-clavulanate, is unpredictable and not clearly related to dose."
+ },
+ {
+  "id": 379,
+  "domain": "liver_disorders",
+  "front": "What classic triad suggests Budd-Chiari syndrome?",
+  "back": "Abdominal pain, ascites, and hepatomegaly from hepatic venous outflow obstruction, often driven by an underlying myeloproliferative neoplasm or other hypercoagulable state."
+ },
+ {
+  "id": 380,
+  "domain": "liver_disorders",
+  "front": "What is sinusoidal obstruction syndrome, and when does it classically occur?",
+  "back": "Previously called veno-occlusive disease, it presents with painful hepatomegaly, weight gain, and jaundice, classically within weeks of hematopoietic stem cell transplantation or certain chemotherapy."
+ },
+ {
+  "id": 381,
+  "domain": "liver_disorders",
+  "front": "What pregnancy-related liver condition presents with pruritus of the palms and soles?",
+  "back": "Intrahepatic cholestasis of pregnancy, which carries a real stillbirth risk and is treated with ursodeoxycholic acid along with consideration of early delivery."
+ },
+ {
+  "id": 382,
+  "domain": "liver_disorders",
+  "front": "What is the definitive treatment for HELLP syndrome and acute fatty liver of pregnancy?",
+  "back": "Prompt delivery. Both conditions resolve once the pregnancy ends, and continuing the pregnancy risks serious maternal and fetal complications."
+ },
+ {
+  "id": 383,
+  "domain": "liver_disorders",
+  "front": "What defines acute liver failure in a patient without preexisting cirrhosis?",
+  "back": "Coagulopathy with INR at or above 1.5 plus any degree of encephalopathy, developing within 26 weeks of illness onset in someone without prior chronic liver disease."
+ },
+ {
+  "id": 384,
+  "domain": "liver_disorders",
+  "front": "What is the most feared complication of acute liver failure with high-grade encephalopathy?",
+  "back": "Cerebral edema, a leading cause of death that requires close monitoring of intracranial pressure in patients with grade 3 or 4 encephalopathy."
+ },
+ {
+  "id": 385,
+  "domain": "liver_disorders",
+  "front": "What defines acute-on-chronic liver failure, and what are its common precipitants?",
+  "back": "Acute decompensation in a patient with known chronic liver disease plus failure of one or more extrahepatic organs. Common precipitants include infection, gastrointestinal bleeding, and alcohol relapse."
+ },
+ {
+  "id": 386,
+  "domain": "liver_disorders",
+  "front": "What must be avoided when evaluating a suspected echinococcal (hydatid) liver cyst?",
+  "back": "Percutaneous aspiration without proper precautions, since spillage of cyst contents can cause severe anaphylaxis. Treatment combines albendazole with careful drainage such as the PAIR technique."
+ },
+ {
+  "id": 387,
+  "domain": "liver_disorders",
+  "front": "What causes congestive hepatopathy, and what can it progress to if untreated?",
+  "back": "Sinusoidal congestion from elevated central venous pressure, usually from right heart failure or constrictive pericarditis, which can progress to cardiac cirrhosis if left untreated."
+ },
+ {
+  "id": 388,
+  "domain": "liver_disorders",
+  "front": "What score is used to prioritize patients for liver transplant, and what does it predict?",
+  "back": "MELD 3.0, which replaced MELD-Na for US allocation in January 2023, predicts short-term mortality in decompensated cirrhosis and prioritizes the sickest patients for organ allocation on the waiting list."
+ },
+ {
+  "id": 389,
+  "domain": "liver_disorders",
+  "front": "What class of medication forms the backbone of long-term post-transplant immunosuppression?",
+  "back": "Calcineurin inhibitors such as tacrolimus, balanced against risks of infection, malignancy, chronic kidney disease, and recurrence of the original liver disease."
+ },
+ {
+  "id": 390,
+  "domain": "liver_disorders",
+  "front": "Which liver diseases are most likely to recur after transplantation?",
+  "back": "MASLD, autoimmune hepatitis, and primary sclerosing cholangitis are particular concerns for disease recurrence in the transplanted liver, especially if underlying risk factors persist."
+ },
+ {
+  "id": 391,
+  "domain": "liver_disorders",
+  "front": "What two scoring systems assess surgical risk before elective surgery in cirrhosis?",
+  "back": "The Child-Turcotte-Pugh score and the MELD score. Patients with decompensated cirrhosis or a high MELD score should generally have elective surgery deferred or avoided."
+ },
+ {
+  "id": 392,
+  "domain": "liver_disorders",
+  "front": "What distinguishes hepatopulmonary syndrome from portopulmonary hypertension?",
+  "back": "Hepatopulmonary syndrome causes platypnea, worsening hypoxemia when upright that improves lying flat, from intrapulmonary vascular dilation. Portopulmonary hypertension involves pulmonary arterial hypertension and can complicate transplant timing if severe."
+ },
+ {
+  "id": 393,
+  "domain": "liver_disorders",
+  "front": "How is hepatorenal syndrome diagnosed?",
+  "back": "As a diagnosis of exclusion, a functional kidney injury from severe splanchnic vasodilation in advanced cirrhosis, made only after other causes of kidney injury have been ruled out."
+ },
+ {
+  "id": 394,
+  "domain": "liver_disorders",
+  "front": "What is minimal hepatic encephalopathy, and why does it matter clinically?",
+  "back": "A subtle cognitive impairment in cirrhosis that can affect driving safety and daily function despite a normal standard neurologic exam, making it easy to miss without specific testing."
+ },
+ {
+  "id": 395,
+  "domain": "liver_disorders",
+  "front": "Why are patients with advanced cirrhosis more prone to bacterial and fungal infections?",
+  "back": "Cirrhosis-associated immune dysfunction impairs normal immune surveillance, increasing susceptibility to both bacterial and fungal infections independent of any single specific organism."
+ },
+ {
+  "id": 396,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What are the two main causes of acute pancreatitis?",
+  "back": "Gallstones and alcohol use together account for the large majority of cases. Other causes include hypertriglyceridemia, hypercalcemia, medications, and post-ERCP injury."
+ },
+ {
+  "id": 397,
+  "domain": "pancreas_biliary_disorders",
+  "front": "Why is lipase preferred over amylase for diagnosing acute pancreatitis?",
+  "back": "Lipase stays elevated longer after symptom onset and is more specific to the pancreas. Amylase is also produced by the salivary glands, making it less specific."
+ },
+ {
+  "id": 398,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What are the three diagnostic criteria for acute pancreatitis?",
+  "back": "Typical epigastric pain radiating to the back, lipase or amylase at least three times normal, and characteristic imaging findings. At least two of the three must be present."
+ },
+ {
+  "id": 399,
+  "domain": "pancreas_biliary_disorders",
+  "front": "Define mild acute pancreatitis under the Revised Atlanta Classification.",
+  "back": "No organ failure and no local or systemic complications. This category has the best prognosis and typically resolves quickly."
+ },
+ {
+  "id": 400,
+  "domain": "pancreas_biliary_disorders",
+  "front": "Define moderately severe acute pancreatitis under the Revised Atlanta Classification.",
+  "back": "Organ failure lasting less than 48 hours, called transient organ failure, together with local or systemic complications."
+ },
+ {
+  "id": 401,
+  "domain": "pancreas_biliary_disorders",
+  "front": "Define severe acute pancreatitis under the Revised Atlanta Classification.",
+  "back": "Organ failure lasting 48 hours or more, called persistent organ failure, together with local or systemic complications. This carries the highest mortality."
+ },
+ {
+  "id": 402,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What is the single feature that separates severe from moderately severe acute pancreatitis?",
+  "back": "Duration of organ failure. Persistent organ failure of 48 hours or more defines severe disease, while transient organ failure under 48 hours defines moderately severe disease."
+ },
+ {
+  "id": 403,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What is an acute peripancreatic fluid collection, and what can it become?",
+  "back": "A fluid collection without a defined wall occurring in the first four weeks of acute pancreatitis. If it persists beyond four weeks and develops a wall, it becomes a pancreatic pseudocyst."
+ },
+ {
+  "id": 404,
+  "domain": "pancreas_biliary_disorders",
+  "front": "How does walled-off necrosis differ from a pancreatic pseudocyst?",
+  "back": "Walled-off necrosis contains solid necrotic debris within a defined wall, while a pseudocyst is purely fluid. Both are typically described only after four weeks."
+ },
+ {
+  "id": 405,
+  "domain": "pancreas_biliary_disorders",
+  "front": "When should contrast-enhanced CT be obtained to assess pancreatic necrosis?",
+  "back": "At 72 to 96 hours after symptom onset. Earlier imaging can underestimate the true extent of necrosis before it fully demarcates."
+ },
+ {
+  "id": 406,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What is the recommended fluid strategy in the first 24 hours of acute pancreatitis?",
+  "back": "Moderate, goal-directed intravenous isotonic crystalloid resuscitation, guided by reassessment of volume status and urine output rather than a fixed aggressive rate. Aggressive resuscitation is no longer recommended after the 2022 WATERFALL trial showed it increases fluid overload without improving outcomes."
+ },
+ {
+  "id": 407,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What feeding strategy is now preferred in acute pancreatitis over the old bowel rest approach?",
+  "back": "Early oral feeding as tolerated, even in moderately severe disease. This is associated with fewer infectious complications than prolonged fasting."
+ },
+ {
+  "id": 408,
+  "domain": "pancreas_biliary_disorders",
+  "front": "When should infected pancreatic necrosis be suspected?",
+  "back": "When a patient with necrotizing pancreatitis fails to improve or worsens after one to two weeks, especially with new fever or rising white count."
+ },
+ {
+  "id": 409,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What is the step-up approach to infected pancreatic necrosis?",
+  "back": "Starting with percutaneous or endoscopic drainage before escalating to more invasive surgical necrosectomy if the patient does not improve."
+ },
+ {
+  "id": 410,
+  "domain": "pancreas_biliary_disorders",
+  "front": "When should cholecystectomy be performed in mild gallstone pancreatitis?",
+  "back": "During the same hospital admission, since delaying it raises the risk of recurrent gallstone-related events before an elective later surgery date."
+ },
+ {
+  "id": 411,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What triglyceride level is generally considered a likely cause of acute pancreatitis?",
+  "back": "Approximately 1000 mg/dL or greater. Lower levels are less likely to be the primary causative factor on their own."
+ },
+ {
+  "id": 412,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What is the classic mechanism by which alcohol causes acute pancreatitis?",
+  "back": "Direct toxic injury to acinar cells combined with premature intracellular activation of digestive enzymes, distinct from the mechanical obstruction seen in gallstone disease."
+ },
+ {
+  "id": 413,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What is pancreas divisum?",
+  "back": "A congenital variant where the dorsal and ventral pancreatic ducts fail to fuse, so most drainage occurs through the smaller minor papilla instead of the major papilla."
+ },
+ {
+  "id": 414,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What is annular pancreas?",
+  "back": "A congenital anomaly where a ring of pancreatic tissue encircles the duodenum, which can cause duodenal obstruction in infancy or later in life."
+ },
+ {
+  "id": 415,
+  "domain": "pancreas_biliary_disorders",
+  "front": "Why are choledochal cysts treated with surgical excision rather than simple drainage?",
+  "back": "Because they carry a meaningfully increased long-term risk of cholangiocarcinoma, so removing the cyst addresses this cancer risk directly."
+ },
+ {
+  "id": 416,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What structure forms when the pancreatic duct and common bile duct join?",
+  "back": "The ampulla of Vater, which then drains into the duodenum through the major papilla, controlled by the sphincter of Oddi."
+ },
+ {
+  "id": 417,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What is biliary colic?",
+  "back": "Steady right upper quadrant or epigastric pain from transient cystic duct obstruction by a stone, often after fatty meals, resolving over a few hours without fever."
+ },
+ {
+  "id": 418,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What are the classic ultrasound findings of acute cholecystitis?",
+  "back": "Gallbladder wall thickening greater than 3 millimeters, pericholecystic fluid, gallbladder distension, and a sonographic Murphy sign."
+ },
+ {
+  "id": 419,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What is the recommended timing for cholecystectomy in acute cholecystitis?",
+  "back": "Early laparoscopic cholecystectomy, ideally within 72 hours of symptom onset, along with antibiotics covering enteric organisms."
+ },
+ {
+  "id": 420,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What is acalculous cholecystitis, and who gets it?",
+  "back": "Cholecystitis without stones, seen in critically ill patients from gallbladder ischemia and bile stasis. It carries a higher risk of gangrene and perforation than calculous disease."
+ },
+ {
+  "id": 421,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What is the temporizing treatment for acute cholecystitis in an unstable patient?",
+  "back": "Percutaneous cholecystostomy tube placement, which drains the gallbladder without the physiologic stress of surgery."
+ },
+ {
+  "id": 422,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What does a HIDA scan showing nonvisualization of the gallbladder imply?",
+  "back": "Persistent cystic duct obstruction, supporting the diagnosis of acute cholecystitis when ultrasound findings are equivocal."
+ },
+ {
+  "id": 423,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What features raise concern for malignancy in a gallbladder polyp?",
+  "back": "Polyp size larger than 1 centimeter, documented interval growth, or occurrence in a patient with primary sclerosing cholangitis."
+ },
+ {
+  "id": 424,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What is Mirizzi syndrome?",
+  "back": "Extrinsic compression of the common hepatic duct by a stone impacted in the cystic duct or gallbladder neck, causing obstructive jaundice."
+ },
+ {
+  "id": 425,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What is gallstone ileus?",
+  "back": "Mechanical small bowel obstruction from a large gallstone that erodes through a cholecystoenteric fistula and lodges, most often at the terminal ileum."
+ },
+ {
+  "id": 426,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What lab pattern is expected with choledocholithiasis?",
+  "back": "A cholestatic pattern, with alkaline phosphatase and bilirubin rising more than the transaminases."
+ },
+ {
+  "id": 427,
+  "domain": "pancreas_biliary_disorders",
+  "front": "When is ERCP preferred over MRCP for a suspected bile duct stone?",
+  "back": "When the pretest probability of a stone is already high, since ERCP allows both diagnosis and immediate therapeutic sphincterotomy and stone extraction."
+ },
+ {
+  "id": 428,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What is Charcot triad, and what does Reynolds pentad add to it?",
+  "back": "Charcot triad is fever, jaundice, and right upper quadrant pain from cholangitis. Reynolds pentad adds altered mental status and hypotension, marking more severe disease."
+ },
+ {
+  "id": 429,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What is the emergency management of acute cholangitis?",
+  "back": "Intravenous antibiotics with prompt biliary drainage, most often by ERCP, since infected bile under pressure needs urgent decompression."
+ },
+ {
+  "id": 430,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What disease is primary sclerosing cholangitis strongly associated with?",
+  "back": "Inflammatory bowel disease, especially ulcerative colitis. It also raises the lifetime risk of cholangiocarcinoma and colorectal cancer."
+ },
+ {
+  "id": 431,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What is the classic MRCP finding in primary sclerosing cholangitis?",
+  "back": "A beaded appearance of alternating strictures and dilations throughout the intrahepatic and extrahepatic bile ducts."
+ },
+ {
+  "id": 432,
+  "domain": "pancreas_biliary_disorders",
+  "front": "Does ursodeoxycholic acid change the natural history of primary sclerosing cholangitis?",
+  "back": "No. It can improve liver biochemistries but has not been shown to change disease progression at high doses, so it is not routinely recommended for that purpose."
+ },
+ {
+  "id": 433,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What antibody is characteristic of primary biliary cholangitis?",
+  "back": "Antimitochondrial antibody, positive in the great majority of affected patients, most often middle-aged women."
+ },
+ {
+  "id": 434,
+  "domain": "pancreas_biliary_disorders",
+  "front": "Is ursodeoxycholic acid effective first-line therapy in primary biliary cholangitis?",
+  "back": "Yes. Unlike in primary sclerosing cholangitis, it is first-line therapy here and has been shown to improve long-term outcomes."
+ },
+ {
+  "id": 435,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What causes post-ERCP pancreatitis?",
+  "back": "Mechanical or hydrostatic injury to the pancreatic duct during cannulation and sphincterotomy, presenting with typical pancreatitis pain and lipase elevation shortly after the procedure."
+ },
+ {
+  "id": 436,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What is the most common identifiable cause of chronic pancreatitis in adults?",
+  "back": "Chronic alcohol use. A meaningful share of cases remain idiopathic, and genetic causes should be considered in younger patients."
+ },
+ {
+  "id": 437,
+  "domain": "pancreas_biliary_disorders",
+  "front": "Which genetic mutations should be considered in a young patient with chronic pancreatitis and no typical risk factors?",
+  "back": "PRSS1, SPINK1, and CFTR mutations."
+ },
+ {
+  "id": 438,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What is the most sensitive test for early chronic pancreatitis, and what limits its use?",
+  "back": "Secretin stimulation testing is the most sensitive, but it requires specialized equipment and is not widely available outside specialized centers."
+ },
+ {
+  "id": 439,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What is a key limitation of fecal elastase testing?",
+  "back": "It only becomes abnormal after a substantial portion of exocrine function is already lost, so it can miss early or mild disease."
+ },
+ {
+  "id": 440,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What type of diabetes results from chronic pancreatitis, and why?",
+  "back": "Type 3c or pancreatogenic diabetes, from progressive loss of islet cell mass as functional pancreatic tissue is destroyed over time."
+ },
+ {
+  "id": 441,
+  "domain": "pancreas_biliary_disorders",
+  "front": "Has pancreatic enzyme replacement therapy been shown to reduce pain in chronic pancreatitis?",
+  "back": "Not reliably in most trials, even though enzyme therapy remains important for treating malabsorption."
+ },
+ {
+  "id": 442,
+  "domain": "pancreas_biliary_disorders",
+  "front": "When is surgery like lateral pancreaticojejunostomy used in chronic pancreatitis?",
+  "back": "In patients who fail endoscopic therapy or who have diffuse ductal disease not suited to a focal endoscopic approach."
+ },
+ {
+  "id": 443,
+  "domain": "pancreas_biliary_disorders",
+  "front": "What malignancy risk is significantly elevated in chronic pancreatitis, especially hereditary forms?",
+  "back": "Pancreatic adenocarcinoma. Any new or changed pain pattern in a chronic pancreatitis patient warrants imaging to exclude a new mass."
+ },
+ {
+  "id": 444,
+  "domain": "pancreas_biliary_disorders",
+  "front": "At what functional threshold does exocrine pancreatic insufficiency typically become clinically apparent?",
+  "back": "Once functional capacity falls below approximately 10 percent of normal, reflecting the pancreas's substantial reserve capacity."
+ },
+ {
+  "id": 445,
+  "domain": "pancreas_biliary_disorders",
+  "front": "Why should pancreatic enzyme replacement therapy be taken with meals rather than before or after eating?",
+  "back": "Enzymes need to be present in the duodenum at the same time as food to properly digest it, so timing with meals maximizes effectiveness."
+ },
+ {
+  "id": 446,
+  "domain": "nutrition",
+  "front": "Where is vitamin B12 absorbed?",
+  "back": "In the terminal ileum, after binding to intrinsic factor made by gastric parietal cells. Terminal ileal disease or resection, or loss of intrinsic factor from autoimmune gastritis, causes B12 deficiency with macrocytic anemia and neurologic symptoms."
+ },
+ {
+  "id": 447,
+  "domain": "nutrition",
+  "front": "Why does methylmalonic acid distinguish B12 from folate deficiency?",
+  "back": "B12 is a required cofactor for the enzyme that clears methylmalonic acid, so it rises only in B12 deficiency. Folate deficiency does not raise methylmalonic acid, while homocysteine rises in both."
+ },
+ {
+  "id": 448,
+  "domain": "nutrition",
+  "front": "Why can long term PPI use cause iron deficiency?",
+  "back": "Iron absorption through the duodenal DMT1 transporter requires an acidic environment. Acid suppression from a proton pump inhibitor impairs this process and can contribute to iron deficiency over time."
+ },
+ {
+  "id": 449,
+  "domain": "nutrition",
+  "front": "What is acrodermatitis and what deficiency causes it?",
+  "back": "A scaly rash around the mouth, hands, and feet caused by zinc deficiency. It is seen after bariatric surgery and in Crohn disease, along with poor wound healing and hair loss."
+ },
+ {
+  "id": 450,
+  "domain": "nutrition",
+  "front": "Why does excess zinc supplementation cause copper deficiency?",
+  "back": "Zinc competes with copper for intestinal absorption. Excess zinc intake, common after bariatric surgery, can cause copper deficiency presenting with sideroblastic anemia and a B12-deficiency-like neurologic syndrome."
+ },
+ {
+  "id": 451,
+  "domain": "nutrition",
+  "front": "Which four vitamins are lost together in fat malabsorption?",
+  "back": "Vitamins A, D, E, and K, since all four require bile acids and pancreatic enzymes for absorption. Any cause of fat malabsorption can deplete all four simultaneously."
+ },
+ {
+  "id": 452,
+  "domain": "nutrition",
+  "front": "What does vitamin A excess cause?",
+  "back": "Pseudotumor cerebri (headache, blurred vision, papilledema without a mass) and skin changes, usually from over supplementation. Vitamin A deficiency instead causes night blindness."
+ },
+ {
+  "id": 453,
+  "domain": "nutrition",
+  "front": "What is ARFID and how does it differ from anorexia nervosa?",
+  "back": "Avoidant/restrictive food intake disorder is a feeding disorder driven by sensory sensitivity, fear of choking, or low interest in food, not by body image concerns. Anorexia nervosa specifically requires a body image disturbance that ARFID lacks."
+ },
+ {
+  "id": 454,
+  "domain": "nutrition",
+  "front": "What are the three broad mechanisms of malabsorption?",
+  "back": "Maldigestion (insufficient enzymes or bile, as in chronic pancreatitis), mucosal disease (damaged absorptive surface, as in celiac disease), and anatomic or motility problems (reduced contact time, as in short bowel syndrome or scleroderma)."
+ },
+ {
+  "id": 455,
+  "domain": "nutrition",
+  "front": "What does a low fecal elastase indicate?",
+  "back": "Pancreatic exocrine insufficiency. It is a simple spot stool test that has largely replaced the 72 hour fecal fat collection as a screening tool for pancreatic causes of steatorrhea."
+ },
+ {
+  "id": 456,
+  "domain": "nutrition",
+  "front": "What does the D-xylose test evaluate and why is it useful?",
+  "back": "It tests small bowel mucosal absorptive capacity without requiring pancreatic enzymes. A low result with a normal fecal elastase points to a mucosal or bacterial cause of malabsorption rather than pancreatic insufficiency."
+ },
+ {
+  "id": 457,
+  "domain": "nutrition",
+  "front": "Why can celiac disease present without diarrhea?",
+  "back": "It can present subtly with isolated iron deficiency anemia or osteoporosis from malabsorption of iron and calcium/vitamin D, even without GI symptoms, warranting a low threshold for tissue transglutaminase IgA testing."
+ },
+ {
+  "id": 458,
+  "domain": "nutrition",
+  "front": "What GLP-1 side effect matters most before endoscopy?",
+  "back": "Delayed gastric emptying, which raises aspiration risk during sedation. Many centers require an extended liquid diet the day before endoscopy in patients on GLP-1 or GIP/GLP-1 receptor agonists."
+ },
+ {
+  "id": 459,
+  "domain": "nutrition",
+  "front": "What is the difference between an intragastric balloon and endoscopic sleeve gastroplasty?",
+  "back": "A balloon is a temporary space-occupying device removed after a set period. Sleeve gastroplasty uses endoscopic sutures to permanently reduce gastric volume without surgical resection."
+ },
+ {
+  "id": 460,
+  "domain": "nutrition",
+  "front": "Which nutrients require lifelong monitoring after Roux-en-Y gastric bypass?",
+  "back": "Iron, vitamin B12, folate, calcium, and the fat soluble vitamins (A, D, E, K), since bypassed anatomy predisposes to deficiency in all of these long term."
+ },
+ {
+  "id": 461,
+  "domain": "nutrition",
+  "front": "What is the GLIM approach to diagnosing malnutrition?",
+  "back": "It combines phenotypic criteria (weight loss, low BMI, reduced muscle mass) with etiologic criteria (reduced intake or an inflammatory disease state), so a normal-weight patient can still be diagnosed as malnourished."
+ },
+ {
+  "id": 462,
+  "domain": "nutrition",
+  "front": "Why does sarcopenia matter independently of Child-Pugh or MELD score?",
+  "back": "Sarcopenia (loss of skeletal muscle mass and strength) independently predicts worse outcomes after transplant or surgery in cirrhosis, regardless of the standard liver severity scores, so it should be assessed separately."
+ },
+ {
+  "id": 463,
+  "domain": "nutrition",
+  "front": "What is refeeding syndrome and what electrolyte is most critical?",
+  "back": "A dangerous shift of phosphate, potassium, and magnesium into cells triggered by an insulin surge when nutrition is reintroduced too quickly after starvation. Severe hypophosphatemia is the most critical finding, risking arrhythmia and respiratory failure."
+ },
+ {
+  "id": 464,
+  "domain": "nutrition",
+  "front": "How is refeeding syndrome prevented?",
+  "back": "Start nutrition at a low caloric rate, replete electrolytes before and during feeding, and monitor phosphate, potassium, and magnesium daily during the first week of refeeding."
+ },
+ {
+  "id": 465,
+  "domain": "nutrition",
+  "front": "When is jejunal (post-pyloric) feeding preferred over gastric feeding?",
+  "back": "In patients with severe gastroparesis, high aspiration risk, or acute pancreatitis, since bypassing the stomach reduces the volume of retained contents available for aspiration."
+ },
+ {
+  "id": 466,
+  "domain": "other_disorders",
+  "front": "What are the two subtypes of microscopic colitis and how do they differ histologically?",
+  "back": "Collagenous colitis shows a thickened subepithelial collagen band. Lymphocytic colitis shows increased intraepithelial lymphocytes without the thickened band. Both cause chronic watery diarrhea with a grossly normal colon."
+ },
+ {
+  "id": 467,
+  "domain": "other_disorders",
+  "front": "Which medications are most strongly associated with microscopic colitis?",
+  "back": "NSAIDs, proton pump inhibitors, and SSRIs. Discontinuing the offending agent is an important adjunct to budesonide therapy."
+ },
+ {
+  "id": 468,
+  "domain": "other_disorders",
+  "front": "Why is budesonide preferred over prednisone for microscopic colitis?",
+  "back": "Budesonide has high first pass hepatic metabolism, which limits systemic corticosteroid side effects compared with prednisone, while still effectively treating the colonic inflammation."
+ },
+ {
+  "id": 469,
+  "domain": "other_disorders",
+  "front": "Why might colonic biopsies miss microscopic colitis?",
+  "back": "Histologic changes can be patchy and sometimes absent in the rectosigmoid colon, so random biopsies should be taken from multiple colonic segments, not the rectum alone."
+ },
+ {
+  "id": 470,
+  "domain": "other_disorders",
+  "front": "How do you calculate the stool osmotic gap?",
+  "back": "290 minus two times the sum of stool sodium and potassium. A high gap suggests an osmotic cause of diarrhea, while a low gap suggests a secretory cause."
+ },
+ {
+  "id": 471,
+  "domain": "other_disorders",
+  "front": "What defines secretory versus osmotic diarrhea?",
+  "back": "Secretory diarrhea persists with fasting and has a normal or low osmotic gap (e.g. VIPoma, toxins). Osmotic diarrhea improves with fasting and has an elevated osmotic gap (e.g. lactose, magnesium laxatives)."
+ },
+ {
+  "id": 472,
+  "domain": "other_disorders",
+  "front": "Why does cholecystectomy sometimes cause chronic diarrhea?",
+  "back": "Without the gallbladder buffering bile release, continuous bile flow into the duodenum can overwhelm ileal bile acid reabsorption capacity, producing bile acid diarrhea."
+ },
+ {
+  "id": 473,
+  "domain": "other_disorders",
+  "front": "What does fecal calprotectin indicate and what is its main use?",
+  "back": "It rises with neutrophil migration into the gut lumen during inflammation. It helps distinguish inflammatory bowel disease from a functional disorder like irritable bowel syndrome before pursuing colonoscopy."
+ },
+ {
+  "id": 474,
+  "domain": "other_disorders",
+  "front": "What predisposes patients to small intestinal bacterial overgrowth (SIBO)?",
+  "back": "Anatomic stagnant loops (prior surgery, strictures, blind loops) and conditions that slow motility (scleroderma, diabetic neuropathy, opioid use), which allow bacteria to accumulate in the small bowel."
+ },
+ {
+  "id": 475,
+  "domain": "other_disorders",
+  "front": "How does SIBO cause fat malabsorption?",
+  "back": "Bacteria deconjugate bile acids, impairing micelle formation needed for fat absorption, leading to steatorrhea and fat soluble vitamin deficiency."
+ },
+ {
+  "id": 476,
+  "domain": "other_disorders",
+  "front": "How is SIBO diagnosed and treated?",
+  "back": "Diagnosed with a glucose or lactulose hydrogen (or hydrogen-methane) breath test showing an early hydrogen rise. Treated with a poorly absorbed antibiotic like rifaximin, plus correction of the underlying cause to prevent relapse."
+ },
+ {
+  "id": 477,
+  "domain": "other_disorders",
+  "front": "Why do internal hemorrhoids cause painless bleeding while external hemorrhoids are painful?",
+  "back": "Internal hemorrhoids lie above the dentate line, an area without somatic pain innervation. External hemorrhoids lie below the dentate line, innervated by somatic nerves, so thrombosis there is painful."
+ },
+ {
+  "id": 478,
+  "domain": "other_disorders",
+  "front": "What is first line treatment for a chronic anal fissure?",
+  "back": "A topical agent that relaxes the internal anal sphincter, such as nifedipine or nitroglycerin, addressing the reduced local blood flow thought to cause chronicity. Sphincterotomy is reserved for medical failures."
+ },
+ {
+  "id": 479,
+  "domain": "other_disorders",
+  "front": "When should recurrent perianal abscesses prompt evaluation for Crohn disease?",
+  "back": "When abscesses are recurrent or complex, especially with associated abdominal pain or weight loss, warranting pelvic MRI and colonoscopy to evaluate for underlying Crohn disease."
+ },
+ {
+  "id": 480,
+  "domain": "other_disorders",
+  "front": "What is the most common cause of small bowel obstruction in adults?",
+  "back": "Postoperative adhesions from prior abdominal surgery, followed by hernias and malignancy."
+ },
+ {
+  "id": 481,
+  "domain": "other_disorders",
+  "front": "What is the coffee bean sign and what does it indicate?",
+  "back": "A dilated loop of colon bending back on itself on abdominal x-ray, classic for sigmoid volvulus, typically seen in elderly or institutionalized patients with chronic constipation."
+ },
+ {
+  "id": 482,
+  "domain": "other_disorders",
+  "front": "How does adult intussusception differ from pediatric intussusception?",
+  "back": "Adult intussusception almost always has an identifiable lead point (polyp, tumor, Meckel diverticulum) and generally requires surgical resection, unlike pediatric cases which are often idiopathic and can be reduced."
+ },
+ {
+  "id": 483,
+  "domain": "other_disorders",
+  "front": "Why is a closed loop obstruction especially dangerous?",
+  "back": "A bowel segment obstructed at both proximal and distal points cannot decompress in either direction, creating a high risk of rapid ischemia and perforation, requiring urgent surgical evaluation."
+ },
+ {
+  "id": 484,
+  "domain": "other_disorders",
+  "front": "What is an obturator hernia and who typically gets it?",
+  "back": "A hernia through the obturator canal, classically in thin, elderly women, causing medial thigh pain from obturator nerve compression, often without a palpable external bulge."
+ },
+ {
+  "id": 485,
+  "domain": "other_disorders",
+  "front": "Why are femoral hernias higher risk than inguinal hernias?",
+  "back": "Femoral hernias pass through a narrow, rigid canal below the inguinal ligament, making them more prone to incarceration and strangulation. They are also more common in women."
+ },
+ {
+  "id": 486,
+  "domain": "other_disorders",
+  "front": "What is the classic presentation of acute mesenteric ischemia and its typical cause?",
+  "back": "Sudden severe abdominal pain out of proportion to exam findings, classically from embolic occlusion of the superior mesenteric artery in a patient with atrial fibrillation."
+ },
+ {
+  "id": 487,
+  "domain": "other_disorders",
+  "front": "What is chronic mesenteric ischemia (intestinal angina)?",
+  "back": "Postprandial abdominal pain from atherosclerotic narrowing of at least two of the three mesenteric vessels, leading to food fear and weight loss over time."
+ },
+ {
+  "id": 488,
+  "domain": "other_disorders",
+  "front": "How does ischemic colitis differ from acute mesenteric ischemia?",
+  "back": "Ischemic colitis is usually nonocclusive, related to a low flow state, and affects watershed areas like the splenic flexure. It is generally managed supportively, unlike the surgical emergency of acute mesenteric ischemia."
+ },
+ {
+  "id": 489,
+  "domain": "other_disorders",
+  "front": "What is Heyde syndrome?",
+  "back": "The association between aortic stenosis and bleeding colonic angioectasias, caused by acquired von Willebrand factor deficiency from shear stress across the stenotic valve. Bleeding often improves after valve replacement."
+ },
+ {
+  "id": 490,
+  "domain": "other_disorders",
+  "front": "What is the rule of twos for Meckel diverticulum?",
+  "back": "Occurs in about 2 percent of the population, usually within 2 feet of the ileocecal valve, and often contains ectopic gastric or pancreatic tissue that can cause painless bleeding."
+ },
+ {
+  "id": 491,
+  "domain": "other_disorders",
+  "front": "How has management of uncomplicated appendicitis changed?",
+  "back": "A trial of antibiotics alone is now an accepted alternative to appendectomy in appropriately selected patients without perforation or abscess, though surgery remains standard for complicated disease."
+ },
+ {
+  "id": 492,
+  "domain": "other_disorders",
+  "front": "How is a periappendiceal abscess typically managed?",
+  "back": "Percutaneous drainage plus antibiotics first, followed by interval appendectomy weeks later, since immediate surgery in a densely inflamed field carries higher complication rates."
+ },
+ {
+  "id": 493,
+  "domain": "other_disorders",
+  "front": "Why do elderly patients with appendicitis often present atypically?",
+  "back": "They often have blunted inflammatory responses (less fever, less leukocytosis), which delays diagnosis and increases the risk of presenting with perforation compared with younger patients."
+ },
+ {
+  "id": 494,
+  "domain": "other_disorders",
+  "front": "Why does loss of the ileocecal valve worsen short bowel syndrome?",
+  "back": "The valve normally slows small bowel transit and limits reflux of colonic bacteria into the small intestine. Its loss accelerates transit and promotes bacterial overgrowth, worsening malabsorption."
+ },
+ {
+  "id": 495,
+  "domain": "other_disorders",
+  "front": "What is the difference between early and late dumping syndrome?",
+  "back": "Early dumping occurs within 30 minutes from rapid fluid shift into the bowel after hyperosmolar food enters quickly, causing tachycardia and cramping. Late dumping occurs 1 to 3 hours later from reactive hypoglycemia after an exaggerated insulin surge."
+ },
+ {
+  "id": 496,
+  "domain": "other_disorders",
+  "front": "Why can internal hernias after Roux-en-Y bypass be missed on imaging?",
+  "back": "They can reduce spontaneously, so a CT scan obtained during an asymptomatic period can be falsely reassuring, requiring a high index of suspicion despite normal imaging."
+ },
+ {
+  "id": 497,
+  "domain": "other_disorders",
+  "front": "What is the difference between diverticulosis and diverticulitis?",
+  "back": "Diverticulosis is asymptomatic outpouching of the colonic wall. Diverticulitis is inflammation or micro-perforation of a diverticulum causing pain, fever, and leukocytosis."
+ },
+ {
+  "id": 498,
+  "domain": "other_disorders",
+  "front": "When is colonoscopy performed after acute diverticulitis, and why the timing?",
+  "back": "Six to eight weeks after the episode resolves, to exclude an underlying malignancy. It is never performed during the acute phase because of perforation risk."
+ },
+ {
+  "id": 499,
+  "domain": "other_disorders",
+  "front": "What is a colovesical fistula and its classic symptom triad?",
+  "back": "A fistula between the colon and bladder, most often from diverticulitis, causing recurrent UTIs, pneumaturia, and fecaluria. It typically requires elective surgical resection."
+ },
+ {
+  "id": 500,
+  "domain": "other_disorders",
+  "front": "What is the Carnett sign and how is it interpreted?",
+  "back": "A bedside test for abdominal wall pain: the examiner palpates the point of maximal tenderness while the patient tenses the abdominal muscles. Pain that worsens or stays the same suggests an abdominal wall source; pain that improves suggests an intra-abdominal source."
+ }
+]
